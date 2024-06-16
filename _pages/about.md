@@ -48,6 +48,7 @@ I have published some academic papers at the international conference ACL, the J
 - [A comprehensive Overview of CFN From a Commonsense Perspective](https://link.springer.com/article/10.1007/s11633-023-1450-8). Ru Li, **Yunxiao Zhao**, Zhiqiang Wang, Xuefeng Su, et al. **MIR 2024**
 
 # 🎖 Honors and Awards
+- *2024.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2024.
 - *2023.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2023.
 - *2022.10* CCL 2022 Explainable Machine Reading Comprehension - Choice Track, Champion.
 - *2022.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2022.
