@@ -36,12 +36,12 @@ I have published some academic papers at the international conference ACL, the J
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/AGR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Reinforced Causal Agent Guided Self-explaining Rationalization](https://yunxiaomr.github.io/)
+[AGR: Reinforced Causal Agent Guided Self-explaining Rationalization](https://yunxiaomr.github.io/)
 
 **Yunxiao Zhao**, Zhiqiang Wang, Xiaoli Li, Jiye Liang, Ru Li.
 
 [**Project**](https://yunxiaomr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose a novel approach AGR (Agent-Guided Rationalization), guiding the next action of the model based on its current training state. 
+- We propose a novel approach AGR (Agent-Guided Rationalization), guiding the next action of the model based on its current training state. We introduce causal intervention calculus to quantify the causal effects inherent during rationale training, and utilize reinforcement learning process to refine the learning bias of them. Furthermore, we pretrain an agent within this reinforced causal environment to guide the next step of the model.
 </div>
 </div>
 
