@@ -45,7 +45,17 @@ I have published some academic papers at the international conference ACL, the J
 </div>
 </div>
 
-- [A comprehensive Overview of CFN From a Commonsense Perspective](https://link.springer.com/article/10.1007/s11633-023-1450-8). Ru Li, **Yunxiao Zhao**, Zhiqiang Wang, Xuefeng Su, et al. **MIR 2024**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR 2024</div><img src='images/CFN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A comprehensive Overview of CFN From a Commonsense Perspective](https://link.springer.com/article/10.1007/s11633-023-1450-8)
+
+Ru Li, **Yunxiao Zhao**, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Han, Hongyan Zhao.
+
+[**Project**](https://yunxiaomr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We conduct a comprehensive overview of Chinese FrameNet from a commonsense perspective, covering topics such as scenario commonsense representation, Chinese FrameNet resources, and its applications. We also summarize recent breakthroughs and identify future research directions. 
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2024.
