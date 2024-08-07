@@ -42,7 +42,7 @@ I have published some academic papers at the international conference ACL, the J
 
 [**Project**](https://yunxiaomr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-<a href="../docs/poster_agr.pdf">[**Poster**](../docs/poster_agr.pdf.pdf)</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<a href="../docs/poster_agr.pdf">[**Poster**]</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - We propose a novel approach AGR (Agent-Guided Rationalization), guiding the next action of the model based on its current training state. We introduce causal intervention calculus to quantify the causal effects inherent during rationale training, and utilize reinforcement learning process to refine their learning bias.
 </div>
