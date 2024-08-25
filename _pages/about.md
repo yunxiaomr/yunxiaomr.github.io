@@ -29,7 +29,7 @@ I have published some academic papers at the international conference ACL, the J
 - *2022.10*: &nbsp; We share our tutorial on winning the championship on [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/).
 - *2022.10*: &nbsp; We get the First Prize on CMRC2022 in the 21st China National Conference on Computational Linguistics.
 - *2022.05*: &nbsp; Two Journal papers on Machine Reading Comprehension are accepted to the Journal of Chinese Information Processing.
-- *2021.05*: &nbsp; One paper on Explainable Evaluation is accepted in [ACL 2021](https://2021.aclweb.org/). 
+- *2021.05*: &nbsp; One paper on Explainable Evaluation is accepted in [Findings of ACL 2021](https://2021.aclweb.org/). 
 
 # 📝 Publications 
 
@@ -50,12 +50,12 @@ I have published some academic papers at the international conference ACL, the J
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR 2024</div><img src='images/CFN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A comprehensive Overview of CFN From a Commonsense Perspective](https://link.springer.com/article/10.1007/s11633-023-1450-8)
+[A comprehensive Overview of CFN From a Commonsense Perspective](https://yunxiaomr.github.io/)
 
 Ru Li, **Yunxiao Zhao**, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Han, Hongyan Zhao.
 
-<a href="https://yunxiaomr.github.io/">**Paper**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-<a href="https://yunxiaomr.github.io/">**Poster**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<a href="https://link.springer.com/article/10.1007/s11633-023-1450-8">**Paper**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<a href="https://www.mi-research.net/article/doi/10.1007/s11633-023-1450-8">**Poster**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We conduct a comprehensive overview of Chinese FrameNet from a commonsense perspective, covering topics such as scenario commonsense representation, Chinese FrameNet resources, and its applications. We also summarize recent breakthroughs and identify future research directions. 
 </div>
 </div>
