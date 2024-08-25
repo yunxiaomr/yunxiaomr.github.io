@@ -29,7 +29,7 @@ I have published some academic papers at the international conference ACL, the J
 - *2022.10*: &nbsp; We share our tutorial on winning the championship on [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/).
 - *2022.10*: &nbsp; We get the First Prize on CMRC2022 in the 21st China National Conference on Computational Linguistics.
 - *2022.05*: &nbsp; Two Journal papers on Machine Reading Comprehension are accepted to the Journal of Chinese Information Processing.
-- *2021.05*: &nbsp; One paper on Explainable Evaluation is accepted in [Findings of ACL 2021](https://2021.aclweb.org/). 
+- *2021.05*: &nbsp; One paper on Explainable Evaluation is accepted in [ACL 2021](https://2021.aclweb.org/). 
 
 # 📝 Publications 
 
@@ -59,6 +59,22 @@ Ru Li, **Yunxiao Zhao**, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoq
 - We conduct a comprehensive overview of Chinese FrameNet from a commonsense perspective, covering topics such as scenario commonsense representation, Chinese FrameNet resources, and its applications. We also summarize recent breakthroughs and identify future research directions. 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2021</div><img src='images/GCRC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GCRC: A New Challenging MRC Dataset from Gaokao Chinese for Explainable Evaluation](https://yunxiaomr.github.io/)
+
+Hongye Tan, Xiaoyue Wang, Yu Ji, Ru Li, Xiaoli Li, Zhiwei Hu, **Yunxiao Zhao**, Xiaoqi Han.
+
+<a href="https://aclanthology.org/2021.findings-acl.113.pdf">**Paper**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<a href="https://aclanthology.org/2021.findings-acl.113.pdf">**Poster**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose GCRC, a new dataset with challenging and high-quality multi-choice questions, collected from Gaokao Chinese (Chinese subject from the National College Entrance Examination of China). We have manually labelled three types of evidence to evaluate MRC systems’ reasoning process: 1) sentence-level relevant supporting facts in an article required for answering a given question, 2) error reason of a distractor (i.e., an incorrect option) for explaining why a distractor should be eliminated, which is an important reasoning step for multi-choice questions, and 3) types of reasoning skills required for answering questions.
+</div>
+</div>
+
+
+
 
 # 🎖 Honors and Awards
 - *2024.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2024.
