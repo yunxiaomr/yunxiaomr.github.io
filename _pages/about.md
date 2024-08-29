@@ -25,7 +25,7 @@ I am pursuing my PhD degree (2022~) at [Shanxi University](https://www.sxu.edu.c
 My research interests include rationalization, reinforcement learning and language models. Also I am interested in framenet knowledge in the linguistics. 
 I have published some academic papers at the international conference ACL, the journal Machine Intelligence Research, and the Journal of Chinese Information Processing. Additionally, I participated in natural language processing evaluations related to interpretability and won the national first prize (champion) in China.
 
-It has been viewed <span id="busuanzi_value_site_pv"></span> times, involving <span id="busuanzi_value_site_uv"></span> visitors.
+It has been attented <span id="busuanzi_value_site_pv"></span> times, involving <span id="busuanzi_value_site_uv"></span> visitors.
 
 
 
