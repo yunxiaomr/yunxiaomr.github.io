@@ -20,7 +20,7 @@ redirect_from:
 I am pursuing my PhD degree (2022~) at [Shanxi University](https://www.sxu.edu.cn/), supervised by Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0). I am also supervised Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Institute for Infocomm Research at A*Star, Singapore. Before that, I received a B.S. degree from Shanxi University in 2020, majoring in computer science and technology (Excellent Lab Class of Big Data, Top %10). 
 
 My research interests include rationalization, reinforcement learning and language models. Also I am interested in framenet knowledge in the linguistics. 
-I have published some academic papers at the international conference ACL, the Journal of Chinese Information Processing, and the journal Machine Intelligence Research. Additionally, I participated in natural language processing evaluations related to interpretability and won the national first prize (champion) in China.
+I have published some academic papers at the international conference ACL, the journal Machine Intelligence Research, and the Journal of Chinese Information Processing. Additionally, I participated in natural language processing evaluations related to interpretability and won the national first prize (champion) in China.
 
 
 # 🔥 News
