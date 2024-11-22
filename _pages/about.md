@@ -19,15 +19,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
+I am currently pursuing a PhD in Computer Science and Technology at [Shanxi University](https://www.sxu.edu.cn/) (2022~), under the supervision of Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0). In addition, I am co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Institute for Infocomm Research at A*Star, Singapore.
+Before that, I received my B.S. degree from Shanxi University in 2020, majoring in computer science and technology.
 
-I am pursuing my PhD degree (2022~) at [Shanxi University](https://www.sxu.edu.cn/), supervised by Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0). I am also supervised Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Institute for Infocomm Research at A*Star, Singapore. Before that, I received a B.S. degree from Shanxi University in 2020, majoring in computer science and technology (Excellent Lab Class of Big Data, Top %10). 
-
-My research interests include rationalization, reinforcement learning and language models. Also I am interested in framenet knowledge in the linguistics. 
-I have published some academic papers at the international conference ACL, the journal Machine Intelligence Research, and the Journal of Chinese Information Processing. Additionally, I participated in natural language processing evaluations related to interpretability and won the national first prize (champion) in China.
+My research interests lie in the areas of self-explaining rationalization, multi-hop reasoning, and (large) language models. I am also deeply interested in computational linguistics resources such as FrameNet and WordNet.
+I have published several papers in international conferences and journals, focusing on Natural Language Processing (NLP) and Artificial Intelligence (AI). Additionally, I have participated in a natural language processing competition centered on interpretability, where I am honored to win the national first prize (champion) in China.
 
 <!--It has been attented <span id="busuanzi_value_site_pv"></span> times.-->
-
-
 
 <!--<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> -->
 <!--<div style="text-align: center; margin-top: 0px;"> -->
