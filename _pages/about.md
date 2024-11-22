@@ -26,6 +26,8 @@ My research interests lie in the areas of self-explaining rationalization, multi
 I have published several papers in international conferences and journals, focusing on Natural Language Processing (NLP) and Artificial Intelligence (AI). Additionally, I have participated in a natural language processing competition centered on interpretability, where I am honored to win the national first prize (champion) in China.
 
 
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> 
+It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 
 <!--<div style="text-align: center; margin-top: 0px;"> -->
@@ -53,7 +55,7 @@ I have published several papers in international conferences and journals, focus
 
 **Yunxiao Zhao**, Zhiqiang Wang, Xiaoli Li, Jiye Liang, Ru Li.
 
-<a href="../images/paper_agr.pdf">**Paper**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<a href="https://aclanthology.org/2024.acl-short.47.pdf">**Paper**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <a href="../images/poster_agr.pdf">**Poster**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - We propose a novel approach AGR (Agent-Guided Rationalization), guiding the next action of the model based on its current training state. We introduce causal intervention calculus to quantify the causal effects inherent during rationale training, and utilize the reinforcement learning process to refine their learning bias.
