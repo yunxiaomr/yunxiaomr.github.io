@@ -26,8 +26,6 @@ My research interests lie in the areas of self-explaining rationalization, multi
 I have published several papers in international conferences and journals, focusing on Natural Language Processing (NLP) and Artificial Intelligence (AI). Additionally, I have participated in a natural language processing competition centered on interpretability, where I am honored to win the national first prize (champion) in China.
 
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> 
-It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 
 <!--<div style="text-align: center; margin-top: 0px;"> -->
