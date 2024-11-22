@@ -22,12 +22,14 @@ redirect_from:
 I am currently pursuing a PhD in Computer Science and Technology at [Shanxi University](https://www.sxu.edu.cn/) (2022~), under the supervision of Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0). In addition, I am co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Institute for Infocomm Research at A*Star, Singapore.
 Before that, I received my B.S. degree from Shanxi University in 2020, majoring in computer science and technology.
 
-My research interests lie in the areas of self-explaining rationalization, multi-hop reasoning, and (large) language models. I am also deeply interested in computational linguistics resources such as FrameNet and WordNet.
+My research interests lie in the areas of self-explaining rationalization, multi-hop reasoning, and (large) language models. I am also deeply interested in computational linguistics knowledge such as FrameNet and WordNet.
 I have published several papers in international conferences and journals, focusing on Natural Language Processing (NLP) and Artificial Intelligence (AI). Additionally, I have participated in a natural language processing competition centered on interpretability, where I am honored to win the national first prize (champion) in China.
 
-<!--It has been attented <span id="busuanzi_value_site_pv"></span> times.-->
 
-<!--<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> 
+It has been attented <span id="busuanzi_value_site_pv"></span> times.
+
+
 <!--<div style="text-align: center; margin-top: 0px;"> -->
 <!-- Views: <span id="busuanzi_value_site_pv"></span> times<br>-->
 <!--Visitors: <span id="busuanzi_value_site_uv"></span> -->
@@ -40,7 +42,7 @@ I have published several papers in international conferences and journals, focus
 - *2024.05*: &nbsp; One paper on Self-explaining Rationalization is accepted in [ACL 2024](https://2024.aclweb.org/). 
 - *2023.04*: &nbsp; One Journal paper on FrameNet Knowledge is accepted on [MIR 2024](https://www.mi-research.net/).
 - *2022.10*: &nbsp; We share our tutorial on winning the championship on [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/).
-- *2022.10*: &nbsp; We get the First Prize on CMRC2022 in the 21st China National Conference on Computational Linguistics.
+- *2022.09*: &nbsp; We get the First Prize on CMRC2022 in the 21st China National Conference on Computational Linguistics.
 - *2022.05*: &nbsp; Two Journal papers on Machine Reading Comprehension are accepted to the Journal of Chinese Information Processing.
 - *2021.05*: &nbsp; One paper on Explainable Evaluation is accepted in [ACL 2021](https://2021.aclweb.org/). 
 
