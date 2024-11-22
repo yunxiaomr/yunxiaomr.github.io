@@ -25,12 +25,10 @@ Before that, I received my B.S. degree from Shanxi University in 2020, majoring 
 My research interests lie in the areas of self-explaining rationalization, multi-hop reasoning, and (large) language models. I am also deeply interested in computational linguistics knowledge such as FrameNet and WordNet.
 I have published several papers in international conferences and journals, focusing on Natural Language Processing (NLP) and Artificial Intelligence (AI). Additionally, I have participated in a natural language processing competition centered on interpretability, where I am honored to win the national first prize (champion) in China.
 
+I am looking forward to discussing and collaborating with fellow researchers! If you are interested, please do not hesitate to reach out to me via [E-mail](yunxiaomr@163.com) anytime.
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> 
 It has been attented <span id="busuanzi_value_site_pv"></span> times.
-
-I am looking forward to discussing and collaborating with fellow researchers! If you are interested, please do not hesitate to reach out to me via [this email](yunxiaomr@163.com) anytime.
-
 
 <!--<div style="text-align: center; margin-top: 0px;"> -->
 <!-- Views: <span id="busuanzi_value_site_pv"></span> times<br>-->
