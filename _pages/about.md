@@ -57,7 +57,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 [LOG: A Local-to-Global Optimization Approach for Retrieval-based Explainable Multi-Hop Question Answering](https://yunxiaomr.github.io/)
 
-Hao Xu\*, Yunxiao Zhao\*\†, Jiayang Zhang, Ru Li, Zhiqiang Wang.
+Hao Xu\*, Yunxiao Zhao\*†, Jiayang Zhang, Ru Li, Zhiqiang Wang.
 
 <a href="https://coling2025.org/">**Paper**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <a href="https://coling2025.org/">**Poster**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
