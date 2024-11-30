@@ -50,6 +50,21 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 - *2021.05*: &nbsp; One paper on Explainable Evaluation is accepted in [Findings of ACL2021](https://2021.aclweb.org/). 
 
 # 📝 Selected Publications 
+<span class="noter" style="color:#7d7d7d"> (* = equal contribution | # = I mentored)</span>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/LOG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LOG: A Local-to-Global Optimization Approach for Retrieval-based Explainable Multi-Hop Question Answering](https://yunxiaomr.github.io/)
+
+Hao Xu*, Yunxiao Zhao*#, Ru Li, Zhiqiang Wang.
+
+<a href="https://coling2025.org/">**Paper**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<a href="https://coling2025.org/">**Poster**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- We propose a novel Local-to-Global optimized retrieval method (LOG) to discover more beneficial knowledge, facilitating the explainable multi-hop reasoning. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/AGR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
