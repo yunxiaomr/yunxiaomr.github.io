@@ -54,7 +54,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 <!--<span class="noter" style="color:#7d7d7d"> (* = equal contribution | † = I mentored)</span> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/LOG_.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"
+<div class='paper-box-text' markdown="1">
 
 [LOG: A Local-to-Global Optimization Approach for Retrieval-based Explainable Multi-Hop Question Answering](https://yunxiaomr.github.io/)
 
