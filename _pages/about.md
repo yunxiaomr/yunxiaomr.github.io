@@ -27,7 +27,7 @@ I have published several papers in international conferences and journals, focus
 
 I am looking forward to discussing and collaborating with fellow researchers! 
 
-If you are interested, please do not hesitate to reach out to me via [E-mail](yunxiaomr@163.com) anytime.
+If you are interested, please do not hesitate to reach out to me via <a href="yunxiaomr@163.com">E-mail</a> anytime.
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> 
 It has been attented <span id="busuanzi_value_site_pv"></span> times.
@@ -50,19 +50,19 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 - *2021.05*: &nbsp; One paper on Explainable Evaluation is accepted in [Findings of ACL2021](https://2021.aclweb.org/). 
 
 # 📝 Selected Publications 
-<span class="noter" style="color:#7d7d7d"> (* = equal contribution | # = I mentored)</span>
+<span class="noter" style="color:#7d7d7d"> (* = equal contribution | † = I mentored)</span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/LOG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/LOG.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LOG: A Local-to-Global Optimization Approach for Retrieval-based Explainable Multi-Hop Question Answering](https://yunxiaomr.github.io/)
 
-Hao Xu*, Yunxiao Zhao*#, Ru Li, Zhiqiang Wang.
+Hao Xu\*, Yunxiao Zhao\*†, Jiayang Zhang, Ru Li, Zhiqiang Wang.
 
 <a href="https://coling2025.org/">**Paper**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <a href="https://coling2025.org/">**Poster**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- We propose a novel Local-to-Global optimized retrieval method (LOG) to discover more beneficial knowledge, facilitating the explainable multi-hop reasoning. 
+- We propose a novel Local-to-Global optimized retrieval method (LOG) to discover more beneficial knowledge, facilitating the explainable multi-hop reasoning.  
 </div>
 </div>
 
