@@ -52,12 +52,12 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 # 📝 Selected Publications 
 <span class="noter" style="color:#7d7d7d"> (* = equal contribution | † = I mentored)</span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/LOG.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/LOG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LOG: A Local-to-Global Optimization Approach for Retrieval-based Explainable Multi-Hop Question Answering](https://yunxiaomr.github.io/)
 
-Hao Xu\*, Yunxiao Zhao\*†, Jiayang Zhang, Ru Li, Zhiqiang Wang.
+Hao Xu\*, Yunxiao Zhao\*\†, Jiayang Zhang, Ru Li, Zhiqiang Wang.
 
 <a href="https://coling2025.org/">**Paper**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <a href="https://coling2025.org/">**Poster**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
