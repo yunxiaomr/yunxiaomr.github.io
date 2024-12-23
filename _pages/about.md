@@ -35,11 +35,12 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 <!--<div style="text-align: center; margin-top: 0px;"> -->
 <!-- Views: <span id="busuanzi_value_site_pv"></span> times<br>-->
 <!--Visitors: <span id="busuanzi_value_site_uv"></span> -->
-<!--</div> 🎉 - *2024.12*: &nbsp; I will visit Singapore between 2024 and 2025. -->
+<!--</div> 🎉 -->
 
 
 
-# 🔥 News
+# 🔥 News 
+- *2024.12*: &nbsp; I will visit Singapore between 2024 and 2025.
 - *2024.11*: &nbsp; One paper on Explainable Multi-hop Reasoning is accepted in [COLING2025](https://coling2025.org/).
 - *2024.08*: &nbsp; We attend the 2024 Annual Conference of the Association for Computational Linguistics in Bangkok, Thailand.
 - *2024.05*: &nbsp; One paper on Self-explaining Rationalization is accepted in [ACL2024](https://2024.aclweb.org/). 
