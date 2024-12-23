@@ -27,7 +27,7 @@ I have published several papers in international conferences and journals, focus
 
 I am looking forward to discussing and collaborating with fellow researchers! 
 
-If you are interested, please do not hesitate to reach out to me via <a href="yunxiaomr@163.com">e-mail</a> anytime.
+If you are interested, please do not hesitate to reach out to me via <a href="mailto:yunxiaomr@163.com">e-mail</a> anytime.
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> 
 It has been attented <span id="busuanzi_value_site_pv"></span> times.
