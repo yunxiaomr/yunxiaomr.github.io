@@ -113,6 +113,10 @@ Ru Li, Yunxiao Zhao, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Ha
 # 💬 Invited Talks
 - *2022.10*, We shared our tutorial on winning the championship on [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
 
+
+# 💻 Internships
+- *2019.12 - 2020.06*, [Taiyuan](https://yunxiaomr.github.io), China.
+
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=rDlsdB4pV8wqXioR_ge-XrLwUTX3P199VHcYBtdl-wU"></script>
 
 <!-- Default Statcounter code for My personal site  
@@ -130,9 +134,3 @@ StatCounter" href="https://statcounter.com/" target="_blank"><img
 class="statcounter" src="https://c.statcounter.com/12037091/0/f3e3a82d/0/"
 alt="Web Analytics Made Easy - StatCounter"></a></div></noscript>
  End of Statcounter Code -->
-
-
-
-
-# 💻 Internships
-- *2019.12 - 2020.06*, [Taiyuan](https://yunxiaomr.github.io), China.
