@@ -117,8 +117,7 @@ Ru Li, Yunxiao Zhao, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Ha
 # 💻 Internships
 - *2019.12 - 2020.06*, [Taiyuan](https://yunxiaomr.github.io), China.
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=rDlsdB4pV8wqXioR_ge-XrLwUTX3P199VHcYBtdl-wU"></script>
-
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VV8T-NYVjl9sU0A1x6WDxCkr-L4MgnBbZbkCYCK9Ljw"></script>
 <!-- Default Statcounter code for My personal site  
 <script type="text/javascript">
 var sc_project=12037091; 
