@@ -54,6 +54,21 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 <span class="noter" style="color:#7d7d7d"> (* = equal contribution)</span> 
 <!--<span class="noter" style="color:#7d7d7d"> (* = equal contribution | † = I mentored)</span> -->
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective](https://yunxiaomr.github.io/)
+
+Yunxiao Zhao, Hao Xu, Zhiqiang Wang, Xiaoli Li, JiyeLiang, Ru Li.
+
+<a href="https://coling2025.org/">**Paper**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<a href="https://coling2025.org/">**Poster**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- Pre-trained Language Models (PLMs) are trained on large amounts of unlabeled data, yet they exhibit remarkable reasoning skills. However, the trustworthiness challenges posed by these black-box models have become increasingly evident in recent years. To alleviate this problem, we propose a novel Knowledge-guided Probing approach called KnowProb in a post-hoc explanation way, which aims to probe whether black-box PLMs understand implicit knowledge beyond the given text, rather than focusing only on the surface-level content of the text. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/LOG_.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
