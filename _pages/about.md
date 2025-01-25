@@ -22,7 +22,7 @@ redirect_from:
 I am currently pursuing a PhD in Computer Science and Technology at [Shanxi University](https://www.sxu.edu.cn/) (2022~), under the supervision of Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0). In addition, I am co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Institute for Infocomm Research at A*Star, Singapore.
 Before that, I received my B.S. degree from Shanxi University in 2020, majoring in computer science and technology.
 
-My research interests lie in the areas of self-explaining rationalization, multi-hop reasoning, and (large) language models. I am also deeply interested in computational linguistics knowledge such as FrameNet and WordNet.
+My research interests lie in the areas of explainable natural language processing, including explainable probing, rationalization, and reasoning. I am also deeply interested in computational linguistics knowledge such as FrameNet and WordNet.
 I have published several papers in international conferences and journals, focusing on Natural Language Processing (NLP) and Artificial Intelligence (AI). Additionally, I have participated in a natural language processing competition centered on interpretability, where I am honored to win the national first prize (champion) in China.
 
 Feel free to contact me by <a href="mailto:yunxiaomr@163.com">email</a> if you are interested in discussing or collaborating with me.
