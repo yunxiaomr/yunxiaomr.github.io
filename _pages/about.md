@@ -39,7 +39,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 
 # 🔥 News 
-- *2025.01*: &nbsp; One paper on Explainable Knowledge Probing is accepted in [DASFAA2025](https://dasfaa2025.github.io/#/calls/research-papers).
+- *2025.01*: &nbsp; One paper on Explainable Knowledge Probing is accepted in [DASFAA2025](https://dasfaa2025.github.io/#/calls/research-papers), which is selected as a long oral presentation.
 - *2024.12*: &nbsp; I will visit Singapore as a visiting postgraduate research student between 2024 and 2025.
 - *2024.11*: &nbsp; One paper on Explainable Multi-hop Reasoning is accepted in [COLING2025](https://coling2025.org/).
 - *2024.08*: &nbsp; We attend the 2024 Annual Conference of the Association for Computational Linguistics in Bangkok, Thailand.
@@ -55,7 +55,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 <!--<span class="noter" style="color:#7d7d7d"> (* = equal contribution | † = I mentored)</span> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025 (Oral)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective](https://yunxiaomr.github.io/)
