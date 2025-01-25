@@ -55,7 +55,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 <!--<span class="noter" style="color:#7d7d7d"> (* = equal contribution | † = I mentored)</span> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025 (Oral)</div><img src='images/KnowProb__.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025 (Oral)</div><img src='images/KnowProb1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective](https://yunxiaomr.github.io/)
