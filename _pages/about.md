@@ -18,23 +18,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a PhD student (2022-) in Computer Science and Technology at Shanxi University, under the supervision of Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0). Meanwhile, I am co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Institute for Infocomm Research at A*Star, Singapore. Before that, I received my B.S. degree from Shanxi University in 2020, majoring in Computer Science and Technology.
+I am now a PhD student (2022-) in Computer Science and Technology at Shanxi University, supervised by Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0). Meanwhile, I am co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Institute for Infocomm Research at A*Star, Singapore. Before that, I received my B.S. degree from Shanxi University in 2020, majoring in computer science and technology.
 
 My research interests focus on explainable natural language processing, including explainable probing, rationalization, and reasoning. 
 I am also interested in explicit knowledge and implicit knowledge, such as FrameNet knowledge base and parameterized PLMs knowledge.
-
-I have published several papers on explainability in international conferences and journals. Additionally, I participated in a competition focused on interpretability, achieving the honor of winning the national first prize (champion) in China. Feel free to contact me by <a href="mailto:yunxiaomr@163.com">email</a> if you are interested in discussing or collaborating with me.
-
-
+Feel free to contact me by <a href="mailto:yunxiaomr@163.com">email</a> if you are interested in discussing or collaborating with me.
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> 
 It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 <!--<div style="text-align: center; margin-top: 0px;"> -->
 <!-- Views: <span id="busuanzi_value_site_pv"></span> times<br>-->
 <!--Visitors: <span id="busuanzi_value_site_uv"></span> -->
-<!- *2024.12*: &nbsp; I will visit Singapore as a visiting postgraduate research student between 2024 and 2025.-->
+<!-- *2024.12*: &nbsp; I will visit Singapore as a visiting postgraduate research student between 2024 and 2025.-->
 <!--</div> 🎉 -->
-
+<!--I have published several papers on explainability in international conferences and journals. Additionally, I participated in a competition focused on interpretability, achieving the honor of winning the national first prize (champion) in China.  -->
 
 
 # 🔥 News 
