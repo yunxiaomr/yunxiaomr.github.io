@@ -54,7 +54,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025 (Oral)</div><img src='images/KnowProb1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective](https://yunxiaomr.github.io/), **<font color=red>Long Oral Presentation</font>**
+[Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective](https://yunxiaomr.github.io/) (**<font color=red>A long oral presentation</font>**)
 
 Yunxiao Zhao, Hao Xu, Zhiqiang Wang, Xiaoli Li, JiyeLiang, Ru Li.
 
