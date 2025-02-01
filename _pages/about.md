@@ -18,14 +18,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I am now a PhD student (2022-) in Computer Science and Technology at Shanxi University, under the supervision of Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0). Meanwhile, I am co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Institute for Infocomm Research at A*Star, Singapore. Before that, I received my B.S. degree from Shanxi University in 2020, majoring in Computer Science and Technology.
 
-I am currently pursuing a PhD in Computer Science and Technology at [Shanxi University](https://www.sxu.edu.cn/) (2022~), under the supervision of Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0). In addition, I am co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Institute for Infocomm Research at A*Star, Singapore.
-Before that, I received my B.S. degree from Shanxi University in 2020, majoring in computer science and technology.
+My research interests focus on explainable natural language processing, including explainable probing, rationalization, and reasoning. 
+I am also interested in explicit knowledge and implicit knowledge, such as FrameNet knowledge base and parameterized PLMs knowledge.
 
-My research interests lie in the areas of explainable natural language processing, including explainable probing, rationalization, and reasoning. I am also deeply interested in computational linguistics knowledge such as FrameNet and WordNet.
-I have published several papers in international conferences and journals, focusing on Natural Language Processing (NLP) and Artificial Intelligence (AI). Additionally, I have participated in a natural language processing competition centered on interpretability, where I am honored to win the national first prize (champion) in China.
-
-Feel free to contact me by <a href="mailto:yunxiaomr@163.com">email</a> if you are interested in discussing or collaborating with me.
+I have published several papers on explainability in international conferences and journals. Additionally, I participated in a competition focused on interpretability, achieving the honor of winning the national first prize (champion) in China. Feel free to contact me by <a href="mailto:yunxiaomr@163.com">email</a> if you are interested in discussing or collaborating with me.
 
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> 
@@ -34,13 +32,13 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 <!--<div style="text-align: center; margin-top: 0px;"> -->
 <!-- Views: <span id="busuanzi_value_site_pv"></span> times<br>-->
 <!--Visitors: <span id="busuanzi_value_site_uv"></span> -->
+<!- *2024.12*: &nbsp; I will visit Singapore as a visiting postgraduate research student between 2024 and 2025.-->
 <!--</div> 🎉 -->
 
 
 
 # 🔥 News 
 - *2025.01*: &nbsp; One paper on Explainable Knowledge Probing is accepted in [DASFAA2025](https://dasfaa2025.github.io/#/calls/research-papers), which is selected as a long oral presentation.
-- *2024.12*: &nbsp; I will visit Singapore as a visiting postgraduate research student between 2024 and 2025.
 - *2024.11*: &nbsp; One paper on Explainable Multi-hop Reasoning is accepted in [COLING2025](https://coling2025.org/).
 - *2024.08*: &nbsp; We attend the 2024 Annual Conference of the Association for Computational Linguistics in Bangkok, Thailand.
 - *2024.05*: &nbsp; One paper on Self-explaining Rationalization is accepted in [ACL2024](https://2024.aclweb.org/). 
@@ -81,7 +79,7 @@ Hao Xu\*, Yunxiao Zhao\*, Jiayang Zhang, Ru Li, Zhiqiang Wang.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/AGR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AGR: Reinforced Causal Agent Guided Self-explaining Rationalization](https://aclanthology.org/2024.acl-short.47.pdf)
+[AGR: Reinforced Causal Agent Guided Self-explaining Rationalization](https://yunxiaomr.github.io/)
 
 Yunxiao Zhao, Zhiqiang Wang, Xiaoli Li, Jiye Liang, Ru Li.
 <!-- 
@@ -95,7 +93,7 @@ Yunxiao Zhao, Zhiqiang Wang, Xiaoli Li, Jiye Liang, Ru Li.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR 2024</div><img src='images/CFN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A comprehensive Overview of CFN From a Commonsense Perspective](https://link.springer.com/article/10.1007/s11633-023-1450-8)
+[A comprehensive Overview of CFN From a Commonsense Perspective](https://yunxiaomr.github.io/)
 
 Ru Li, Yunxiao Zhao, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Han, Hongyan Zhao.
 <!-- 
