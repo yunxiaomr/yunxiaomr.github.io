@@ -36,7 +36,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 
 # 🔥 News 
-- *2025.01*: &nbsp; One paper on Explainable Knowledge Probing is accepted in [DASFAA2025](https://dasfaa2025.github.io/#/calls/research-papers) (**<font color=red>Long Oral</font>**).
+- *2025.01*: &nbsp; One paper on Explainable Knowledge Probing is accepted in [DASFAA2025](https://dasfaa2025.github.io/#/calls/research-papers), a long oral presentation.
 - *2024.11*: &nbsp; One paper on Explainable Multi-hop Reasoning is accepted in [COLING2025](https://coling2025.org/).
 - *2024.08*: &nbsp; We attend the 2024 Annual Conference of the ACL in Bangkok, Thailand.
 - *2024.05*: &nbsp; One paper on Self-explaining Rationalization is accepted in [ACL2024](https://2024.aclweb.org/). 
@@ -54,7 +54,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025 (Oral)</div><img src='images/KnowProb1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective](https://yunxiaomr.github.io/)
+[Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective](https://yunxiaomr.github.io/), **<font color=red>Long Oral Presentation</font>**
 
 Yunxiao Zhao, Hao Xu, Zhiqiang Wang, Xiaoli Li, JiyeLiang, Ru Li.
 
