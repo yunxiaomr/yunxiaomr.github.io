@@ -21,7 +21,7 @@ redirect_from:
 I am now a PhD student (2022-) in Computer Science and Technology at Shanxi University, supervised by Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0). Meanwhile, I am co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Institute for Infocomm Research at A*Star, Singapore. Before that, I received my B.S. degree from Shanxi University in 2020, majoring in computer science and technology.
 
 My research interests focus on explainable natural language processing, including explainable probing, rationalization, and reasoning. 
-I am also interested in explicit knowledge and implicit knowledge, such as FrameNet knowledge base and parameterized PLMs knowledge.
+I am also interested in explicit knowledge and implicit knowledge, such as FrameNet KBs and Parameterized PLMs.
 Feel free to contact me by <a href="mailto:yunxiaomr@163.com">email</a> if you are interested in discussing or collaborating with me.
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> 
 It has been attented <span id="busuanzi_value_site_pv"></span> times.
@@ -56,7 +56,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 [Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective](https://yunxiaomr.github.io/) (**<font color=red>A long oral presentation</font>**)
 
-Yunxiao Zhao, Hao Xu, Zhiqiang Wang, Xiaoli Li, JiyeLiang, Ru Li.
+Yunxiao Zhao, Hao Xu, Zhiqiang Wang, Xiaoli Li, Jiye Liang, Ru Li.
 
 - Pre-trained Language Models (PLMs) are trained on large amounts of unlabeled data, and they exhibit remarkable reasoning skills. However, the trustworthiness challenges have become increasingly evident. To alleviate this problem, we propose a novel knowledge-guided probing approach called KnowProb in a post-hoc explanation way, which aims to probe whether black-box PLMs understand implicit knowledge beyond the given text, rather than focusing only on the surface-level content of the text. 
 
@@ -68,7 +68,7 @@ Yunxiao Zhao, Hao Xu, Zhiqiang Wang, Xiaoli Li, JiyeLiang, Ru Li.
 
 [LOG: A Local-to-Global Optimization Approach for Retrieval-based Explainable Multi-Hop Question Answering](https://yunxiaomr.github.io/)
 
-Hao Xu\*, Yunxiao Zhao\*, Jiayang Zhang, Ru Li, Zhiqiang Wang.
+Hao Xu\*, Yunxiao Zhao\*, Jiayang Zhang, Zhiqiang Wang, Ru Li.
 
 - Explainable multi-hop question answering aims to utilize multi-source intensive documents retrieved to derive the answer. However, it is challenging to model the importance of knowledge retrieved. In this paper, we propose LOG, a novel optimized retrieval method to discover more beneficial knowledge from a local-to-global perspective, facilitating multi-hop reasoning, notably for long-chain reasoning.  
 </div>
