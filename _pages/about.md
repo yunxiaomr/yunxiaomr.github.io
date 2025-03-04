@@ -106,7 +106,7 @@ Ru Li, Yunxiao Zhao, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Ha
 # 🎖 Honors and Awards
 - *2024.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2024.
 - *2023.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2023.
-- *2022.10* The Champion Award on CMRC2022, Chinese Information Processing Society of China, in 2022.
+- *2022.10* The Champion Award on CMRC2022, Chinese Information Processing Society of China (CIPS), in 2022.
 - *2022.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2022.
 - *2021.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2021.
 - *2021.05* The Outstanding Graduate Student. 
