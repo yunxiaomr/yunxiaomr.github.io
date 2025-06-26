@@ -104,12 +104,13 @@ Ru Li, Yunxiao Zhao, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Ha
 
 
 # 🎖 Honors and Awards
+- *2025.06* The Outstanding Graduate Student (PhD Research Student). 
 - *2024.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2024.
 - *2023.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2023.
-- *2022.10* The Champion Award on CMRC2022, Chinese Information Processing Society of China (CIPS), in 2022.
+- *2022.10* The Champion Award on CCL2022@CMRC, Chinese Information Processing Society of China (CIPS), in 2022.
 - *2022.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2022.
 - *2021.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2021.
-- *2021.05* The Outstanding Graduate Student. 
+- *2021.06* The Outstanding Graduate Student (Master Research Student). 
 
 # 📖 Educations
 - *2022.09 - 2026.06 (now)*, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
@@ -117,7 +118,8 @@ Ru Li, Yunxiao Zhao, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Ha
 - *2016.09 - 2020.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
 
 
-# 💬 Invited Talks
+# 💬 Talks
+- *2025.05*, We shared our oral on [DASFAA2025](https://dasfaa2025.github.io/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
 - *2022.10*, We shared our tutorial on winning the championship on [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
 
 
