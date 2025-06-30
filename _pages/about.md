@@ -112,7 +112,7 @@ Ru Li, Yunxiao Zhao, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Ha
 - [Jun. 2021] The First Class Award Scholarship of the Graduate School, Shanxi University, in 2021.
 - [Jun. 2021] The Outstanding Graduate Student (Master Research Student).
 
-  # 📝 Services 
+# 📝 Services 
 - Annual Meeting of the Association for Computational Linguistics (ACL) 2024-2025 Reviewer.
 - ACM Knowledge Discovery and Data Mining (KDD) 2025 Reviewer.
 - The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025 Reviewer.
