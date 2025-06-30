@@ -104,13 +104,13 @@ Ru Li, Yunxiao Zhao, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Ha
 
 
 # 🎖 Honors and Awards
-- *2025.06* The Outstanding Graduate Student (PhD Research Student). 
-- *2024.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2024.
-- *2023.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2023.
-- *2022.10* The Champion Award on CCL2022@CMRC, Chinese Information Processing Society of China (CIPS), in 2022.
-- *2022.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2022.
-- *2021.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2021.
-- *2021.06* The Outstanding Graduate Student (Master Research Student). 
+- [Jun. 2025] The Outstanding Graduate Student (PhD Research Student). 
+- [Jun. 2024] The First Class Award Scholarship of the Graduate School, Shanxi University, in 2024.
+- [Jun. 2023] The First Class Award Scholarship of the Graduate School, Shanxi University, in 2023.
+- [Oct. 2022] The Champion Award on CCL2022@CMRC, Chinese Information Processing Society of China (CIPS), in 2022.
+- [Jun. 2022] The First Class Award Scholarship of the Graduate School, Shanxi University, in 2022.
+- [Jun. 2021] The First Class Award Scholarship of the Graduate School, Shanxi University, in 2021.
+- [Jun. 2021] The Outstanding Graduate Student (Master Research Student). 
 
 # 📖 Educations
 - *2022.09 - 2026.06 (now)*, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
