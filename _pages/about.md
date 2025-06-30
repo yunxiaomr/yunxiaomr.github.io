@@ -101,12 +101,6 @@ Ru Li, Yunxiao Zhao, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Ha
 </div>
 </div>
 
-# 📝 Services 
-- Annual Meeting of the Association for Computational Linguistics (ACL) 2024-2025 Reviewer.
-- ACM Knowledge Discovery and Data Mining (KDD) 2025 Reviewer.
-- The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025 Reviewer.
-- The International Conference on Database Systems for Advanced Applications (DASFAA) 2025 Volunteer.
-- International Joint Conference on Neural Networks (IJCNN) 2025 Reviewer.
 
 
 # 🎖 Honors and Awards
@@ -116,7 +110,15 @@ Ru Li, Yunxiao Zhao, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Ha
 - [Oct. 2022] The Champion Award on CCL2022@CMRC, Chinese Information Processing Society of China (CIPS), in 2022.
 - [Jun. 2022] The First Class Award Scholarship of the Graduate School, Shanxi University, in 2022.
 - [Jun. 2021] The First Class Award Scholarship of the Graduate School, Shanxi University, in 2021.
-- [Jun. 2021] The Outstanding Graduate Student (Master Research Student). 
+- [Jun. 2021] The Outstanding Graduate Student (Master Research Student).
+
+  # 📝 Services 
+- Annual Meeting of the Association for Computational Linguistics (ACL) 2024-2025 Reviewer.
+- ACM Knowledge Discovery and Data Mining (KDD) 2025 Reviewer.
+- The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025 Reviewer.
+- The International Conference on Database Systems for Advanced Applications (DASFAA) 2025 Volunteer.
+- International Joint Conference on Neural Networks (IJCNN) 2025 Reviewer.
+
 
 # 📖 Educations
 - *2022.09 - 2026.06 (now)*, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
@@ -124,10 +126,10 @@ Ru Li, Yunxiao Zhao, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Ha
 - *2016.09 - 2020.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
 
 
-# 💬 Talks
-- [May. 2025], We share our oral on [DASFAA2025](https://dasfaa2025.github.io/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
-- [Jun. 2024], We share our oral on [SXU@Doctoral Forum2024](https://iiip.sxu.edu.cn/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
-- [Oct. 2022], We share our tutorial@CMRC on [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
+# 💬 Presentation
+- [May. 2025], We share our work by an oral presentation on [DASFAA2025](https://dasfaa2025.github.io/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
+- [Aug. 2024], We present our paper on [ACL2024](https://dasfaa2025.github.io/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
+- [Oct. 2022], We share our tutorial by an oral presentation on [CCL2022@CMRC](https://hfl-rc.github.io/cmrc2022/program/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
 
 
 # 💻 Internships
