@@ -127,9 +127,9 @@ Ru Li, Yunxiao Zhao, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Ha
 
 
 # 💬 Presentation
-- [May. 2025], We share our work by an oral presentation on [DASFAA2025](https://dasfaa2025.github.io/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
-- [Aug. 2024], We present our paper on [ACL2024](https://dasfaa2025.github.io/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
-- [Oct. 2022], We share our tutorial by an oral presentation on [CCL2022@CMRC](https://hfl-rc.github.io/cmrc2022/program/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
+- [May. 2025], we share our work by an oral presentation on [DASFAA2025](https://dasfaa2025.github.io/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
+- [Aug. 2024], we present our paper on [ACL2024](https://dasfaa2025.github.io/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
+- [Oct. 2022], we share our tutorial by an oral presentation on [CCL2022@CMRC](https://hfl-rc.github.io/cmrc2022/program/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
 
 
 # 💻 Internships
