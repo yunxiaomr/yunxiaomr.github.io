@@ -127,6 +127,7 @@ Ru Li, Yunxiao Zhao, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Ha
 
 # 💬 Talks
 - [May. 2025], We share our oral on [DASFAA2025](https://dasfaa2025.github.io/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
+- [Jun. 2024], We share our oral on [Shanxi University@Doctoral Forum](https://iiip.sxu.edu.cn/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
 - [Oct. 2022], We share our tutorial@CMRC on [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
 
 
