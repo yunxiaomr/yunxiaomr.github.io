@@ -41,8 +41,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 - [Aug. 2024] &nbsp; We attend the 2024 Annual Conference of the ACL in Bangkok, Thailand.
 - [May. 2024] &nbsp; One paper on Self-explaining Rationalization is accepted in [ACL2024](https://2024.aclweb.org/). 
 - [Apr. 2024] &nbsp; One Journal paper on FrameNet Knowledge is accepted on [MIR2024](https://www.mi-research.net/).
-- [Oct. 2022] &nbsp; We share our tutorial on winning the championship on [CCL2022](https://hfl-rc.github.io/cmrc2022/program/).
-- [Sep. 2022] &nbsp; 🏆 We get the First Prize on CMRC2022 (the 1st rank) in the 21st China National Conference on Computational Linguistics.
+- [Oct. 2022] &nbsp; 🏆 We get the First Prize on CMRC2022 (the 1st rank) in the 21st China National Conference on Computational Linguistics.
 - [May. 2022] &nbsp; Two Journal papers on Machine Reading Comprehension are accepted to the Journal of Chinese Information Processing.
 - [May. 2021] &nbsp; One paper on Explainable Evaluation is accepted in [Findings of ACL2021](https://2021.aclweb.org/). 
 
