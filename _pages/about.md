@@ -37,7 +37,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 # 🔥 News 
 - *[Jan. 2025]*: &nbsp; One paper on Explainable Knowledge Probing is accepted in [DASFAA2025](https://dasfaa2025.github.io/#/calls/research-papers), a long oral presentation.
-- *2024.11*: &nbsp; One paper on Explainable Multi-hop Reasoning is accepted in [COLING2025](https://coling2025.org/).
+- [Nov. 2024]: &nbsp; One paper on Explainable Multi-hop Reasoning is accepted in [COLING2025](https://coling2025.org/).
 - *2024.08*: &nbsp; We attend the 2024 Annual Conference of the ACL in Bangkok, Thailand.
 - *2024.05*: &nbsp; One paper on Self-explaining Rationalization is accepted in [ACL2024](https://2024.aclweb.org/). 
 - *2023.04*: &nbsp; One Journal paper on FrameNet Knowledge is accepted on [MIR2024](https://www.mi-research.net/).
