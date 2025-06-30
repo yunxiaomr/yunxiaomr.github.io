@@ -102,6 +102,13 @@ Ru Li, Yunxiao Zhao, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Ha
 </div>
 </div>
 
+# 📝 Services 
+- Annual Meeting of the Association for Computational Linguistics (ACL) 2024-2025 Reviewer.
+- ACM Knowledge Discovery and Data Mining (KDD) 2025 Reviewer.
+- The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025 Reviewer.
+- The International Conference on Database Systems for Advanced Applications (DASFAA) 2025 Volunteer.
+- International Joint Conference on Neural Networks (IJCNN) 2025 Reviewer.
+
 
 # 🎖 Honors and Awards
 - [Jun. 2025] The Outstanding Graduate Student (PhD Research Student). 
@@ -119,8 +126,8 @@ Ru Li, Yunxiao Zhao, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Ha
 
 
 # 💬 Talks
-- *2025.05*, We shared our oral on [DASFAA2025](https://dasfaa2025.github.io/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
-- *2022.10*, We shared our tutorial@CMRC on [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
+- [May. 2025], We share our oral on [DASFAA2025](https://dasfaa2025.github.io/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
+- [Oct. 2022], We share our tutorial@CMRC on [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
 
 
 # 💻 Internships
