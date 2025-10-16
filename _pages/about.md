@@ -113,15 +113,15 @@ Ru Li, Yunxiao Zhao, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Ha
 - [Jun. 2021] The Outstanding Graduate Student (Master Research Student).
 
 # 📝 Services 
-- Annual Meeting of the Association for Computational Linguistics (ACL) 2024-2025 Reviewer.
-- ACM Knowledge Discovery and Data Mining (KDD) 2025 Reviewer.
+- Annual Meeting of the Association for Computational Linguistics (ACL) 2024-2026 Reviewer.
+- ACM Knowledge Discovery and Data Mining (KDD) 2025-2026 Reviewer.
 - The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025 Reviewer.
 - The International Conference on Database Systems for Advanced Applications (DASFAA) 2025 Volunteer.
 - International Joint Conference on Neural Networks (IJCNN) 2025 Reviewer.
 
 
 # 📖 Educations
-- *2022.09 - 2026.06 (now)*, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
+- *2022.09 - 2026.06*, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
 - *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
 - *2016.09 - 2020.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
 
