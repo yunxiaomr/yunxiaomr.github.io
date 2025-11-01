@@ -49,7 +49,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 - [Apr. 2024] &nbsp; One Journal paper on FrameNet knowledge is accepted on [MIR2024](https://www.mi-research.net/).
 - [Oct. 2022] &nbsp; 🏆 We get the First Prize on CMRC2022 (the 1st rank) in the 21st China National Conference on Computational Linguistics.
 - [May. 2022] &nbsp; Two Journal papers on Machine Reading Comprehension are accepted to the Journal of Chinese Information Processing.
-- [May. 2021] &nbsp; One paper on Explainable Evaluation is accepted in [Findings of ACL2021](https://2021.aclweb.org/). 
+- [May. 2021] &nbsp; One paper on explainable evaluation is accepted in [Findings of ACL2021](https://2021.aclweb.org/). 
 
 # 📝 Selected Publications 
 <span class="noter" style="color:#7d7d7d"> (* = equal contribution)</span> 
