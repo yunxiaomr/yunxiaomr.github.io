@@ -42,14 +42,14 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 - [Nov. 2025] &nbsp; We will attend the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP2025) in Suzhou, China. Welcome to the in-person meet-up!
 - [May. 2025] &nbsp; We will attend the 30th International Conference on Database Systems for Advanced Applications (DASFAA2025) in Singapore.
 - [Apr. 2025] &nbsp; We will attend the Thirteenth International Conference on Learning Representations (ICLR2025) in Singapore EXPO. 
-- [Jan. 2025] &nbsp; One paper on explainable knowledge probing is accepted in [DASFAA2025](https://dasfaa2025.github.io/#/calls/research-papers).
-- [Nov. 2024] &nbsp; One paper on explainable multi-hop reasoning is accepted in [COLING2025](https://coling2025.org/).
+- [Jan. 2025] &nbsp; One paper on explainable knowledge probing is accepted.
+- [Nov. 2024] &nbsp; One paper on explainable multi-hop reasoning is accepted.
 - [Aug. 2024] &nbsp; We will attend the Annual Meeting of the Association for Computational Linguistics (ACL2024) in Bangkok, Thailand.
-- [May. 2024] &nbsp; One paper on Self-explaining Rationalization is accepted in [ACL2024](https://2024.aclweb.org/). 
-- [Apr. 2024] &nbsp; One Journal paper on FrameNet knowledge is accepted on [MIR2024](https://www.mi-research.net/).
+- [May. 2024] &nbsp; One paper on Self-explaining Rationalization is accepted. 
+- [Apr. 2024] &nbsp; One Journal paper on FrameNet knowledge is accepted.
 - [Oct. 2022] &nbsp; 🏆 We get the First Prize on CMRC2022 (the 1st rank) in the 21st China National Conference on Computational Linguistics.
 - [May. 2022] &nbsp; Two Journal papers on Machine Reading Comprehension are accepted to the Journal of Chinese Information Processing.
-- [May. 2021] &nbsp; One paper on explainable evaluation is accepted in [Findings of ACL2021](https://2021.aclweb.org/). 
+- [May. 2021] &nbsp; One paper on explainable evaluation is accepted. 
 
 # 📝 Selected Publications 
 <span class="noter" style="color:#7d7d7d"> (* = equal contribution)</span> 
