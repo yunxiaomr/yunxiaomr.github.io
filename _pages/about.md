@@ -40,7 +40,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 # 🔥 News 
 - [Nov. 2025] &nbsp; Welcome to our in-person meet-up at EMNLP 2025 in Suzhou, China!
-- [May. 2025] &nbsp; We attend the DASFAA2025 (International Conference on Database Systems for Advanced Applications) in Singapore.
+- [May. 2025] &nbsp; We attend the DASFAA2025 (International Conference on Database Systems for Advanced Applications) in Carlton Hotel Singapore.
 - [Apr. 2025] &nbsp; We attend the ICLR2025 (International Conference on Learning Representations) in Singapore EXPO. 
 - [Jan. 2025] &nbsp; One conference paper on explainable knowledge probing is accepted.
 - [Nov. 2024] &nbsp; One conference paper on explainable multi-hop reasoning is accepted.
