@@ -18,14 +18,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a PhD student (2022-) in Computer Science and Technology at Shanxi University, supervised by Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0). Meanwhile, I am co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Institute for Infocomm Research at A*Star, Singapore. Before that, I received my B.S. degree from Shanxi University in 2020, majoring in computer science and technology.
-
-My research interests focus on explainable natural language processing, including explainable probing, rationalization, and reasoning. 
-I am also interested in explicit knowledge and implicit knowledge, such as FrameNet KBs and Parameterized PLMs.
+I am now a PhD student (2022-) in Computer Science and Technology at Shanxi University, supervised by Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0). Meanwhile, I am co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Singapore University of Technology and Design, Nanyang Technological University, and A*Star, Singapore. Before that, I received my B.S. degree from Shanxi University in 2020, majoring in computer science and technology.
+My current research interests include data mining and trustworthy artificial intelligence. 
+I have published several papers in international journals and conferences, including Journal of Machine Intelligence Research, ACL, DASFAA, and COLING. I am also actively serving as a reviewer for international conferences such as ACL, EMNLP, SIGKDD, IJCNN, and so on.
 Feel free to contact me by <a href="mailto:yunxiaomr@163.com">email</a> if you are interested in discussing or collaborating with me.
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> 
 It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
+<!--My research interests focus on explainable natural language processing, including explainable probing, rationalization, and reasoning. -->
+<!--I am also interested in explicit knowledge and implicit knowledge, such as FrameNet KBs and Parameterized PLMs.-->
 <!--<div style="text-align: center; margin-top: 0px;"> -->
 <!-- Views: <span id="busuanzi_value_site_pv"></span> times<br>-->
 <!--Visitors: <span id="busuanzi_value_site_uv"></span> -->
@@ -36,8 +37,11 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 
 # 🔥 News 
-- [Jan. 2025] &nbsp; One paper on Explainable Knowledge Probing is accepted in [DASFAA2025](https://dasfaa2025.github.io/#/calls/research-papers).
-- [Nov. 2024] &nbsp; One paper on Explainable Multi-hop Reasoning is accepted in [COLING2025](https://coling2025.org/).
+- [Nov. 2025] &nbsp; We attend the 2025 Conference on Empirical Methods in Natural Language Processing in Suzhou, China. 
+- [May. 2025] &nbsp; We attend the 30th International Conference on Database Systems for Advanced Applications in Singapore, Singapore.
+- [Apr. 2025] &nbsp; We attend the Thirteenth International Conference on Learning Representations in Singapore EXPO. 
+- [Jan. 2025] &nbsp; One paper on explainable knowledge probing is accepted in [DASFAA2025](https://dasfaa2025.github.io/#/calls/research-papers).
+- [Nov. 2024] &nbsp; One paper on explainable multi-hop reasoning is accepted in [COLING2025](https://coling2025.org/).
 - [Aug. 2024] &nbsp; We attend the 2024 Annual Conference of the ACL in Bangkok, Thailand.
 - [May. 2024] &nbsp; One paper on Self-explaining Rationalization is accepted in [ACL2024](https://2024.aclweb.org/). 
 - [Apr. 2024] &nbsp; One Journal paper on FrameNet Knowledge is accepted on [MIR2024](https://www.mi-research.net/).
