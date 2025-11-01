@@ -40,11 +40,11 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 # 🔥 News 
 - [Nov. 2025] &nbsp; Welcome to our in-person meet-up at EMNLP 2025 in Suzhou, China!
-- [May. 2025] &nbsp; We attend the DASFAA 2025 (International Conference on Database Systems for Advanced Applications) in Carlton Hotel Singapore.
-- [Apr. 2025] &nbsp; We attend the ICLR 2025 (International Conference on Learning Representations) in Singapore EXPO. 
+- [May. 2025] &nbsp; We attend DASFAA 2025 (International Conference on Database Systems for Advanced Applications) in Carlton Hotel Singapore.
+- [Apr. 2025] &nbsp; We attend ICLR 2025 (International Conference on Learning Representations) in Singapore EXPO. 
 - [Jan. 2025] &nbsp; One conference paper on explainable knowledge probing is accepted.
 - [Nov. 2024] &nbsp; One conference paper on explainable multi-hop reasoning is accepted.
-- [Aug. 2024] &nbsp; We attend the ACL 2024 (Annual Meeting of the Association for Computational Linguistics) in Bangkok, Thailand.
+- [Aug. 2024] &nbsp; We attend ACL 2024 (Annual Meeting of the Association for Computational Linguistics) in Bangkok, Thailand.
 - [May. 2024] &nbsp; One conference paper on self-explaining rationalization is accepted. 
 - [Apr. 2024] &nbsp; One journal paper on FrameNet knowledge is accepted.
 - [Oct. 2022] &nbsp; 🏆 We get the First Prize on CMRC2022 (the 1st rank) of the China National Conference on Computational Linguistics 2022.
