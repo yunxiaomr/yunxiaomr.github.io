@@ -20,7 +20,7 @@ redirect_from:
 
 I am now a PhD student (2022-) in Computer Science and Technology at Shanxi University, supervised by Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0). Meanwhile, I am co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Singapore University of Technology and Design, Nanyang Technological University, and A*Star, Singapore. Before that, I received my B.S. degree from Shanxi University in 2020, majoring in computer science and technology.
 
-My current research interests include data mining and trustworthy artificial intelligence. 
+My current research interests include natural language processing and trustworthy artificial intelligence. 
 I have published several papers in international journals and conferences, including Journal of Machine Intelligence Research, ACL, DASFAA, and COLING. I am also actively serving as a reviewer for international conferences such as ACL, EMNLP, SIGKDD, IJCNN, and so on.
 Feel free to contact me by <a href="mailto:yunxiaomr@163.com">email</a> if you are interested in discussing or collaborating with me.
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> 
