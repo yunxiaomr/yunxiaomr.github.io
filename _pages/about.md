@@ -40,7 +40,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 # 🔥 News 
 - [Nov. 2025] &nbsp; We will attend the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP2025) in Suzhou, China. Welcome to the in-person meet-up!
-- [May. 2025] &nbsp; We will attend the 30th International Conference on Database Systems for Advanced Applications (DASFAA2025) in Singapore, Singapore.
+- [May. 2025] &nbsp; We will attend the 30th International Conference on Database Systems for Advanced Applications (DASFAA2025) in Singapore.
 - [Apr. 2025] &nbsp; We will attend the Thirteenth International Conference on Learning Representations (ICLR2025) in Singapore EXPO. 
 - [Jan. 2025] &nbsp; One paper on explainable knowledge probing is accepted in [DASFAA2025](https://dasfaa2025.github.io/#/calls/research-papers).
 - [Nov. 2024] &nbsp; One paper on explainable multi-hop reasoning is accepted in [COLING2025](https://coling2025.org/).
