@@ -47,7 +47,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 - [Aug. 2024] &nbsp; We attend ACL 2024 (Annual Meeting of the Association for Computational Linguistics) in Bangkok, Thailand.
 - [May. 2024] &nbsp; One conference paper on self-explaining rationalization is accepted. 
 - [Apr. 2024] &nbsp; One journal paper on FrameNet knowledge is accepted.
-- [Oct. 2022] &nbsp; 🏆 We get the First Prize on CMRC2022 (the 1st rank) of the China National Conference on Computational Linguistics 2022.
+- [Oct. 2022] &nbsp; 🏆 We won the First Prize (1st place) —— CMRC2022@CCL2022, China!
 - [May. 2022] &nbsp; Two journal papers on machine reading comprehension are accepted.
 - [May. 2021] &nbsp; One conference paper on explainable evaluation is accepted. 
 
