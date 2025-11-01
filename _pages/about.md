@@ -19,6 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am now a PhD student (2022-) in Computer Science and Technology at Shanxi University, supervised by Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0). Meanwhile, I am co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Singapore University of Technology and Design, Nanyang Technological University, and A*Star, Singapore. Before that, I received my B.S. degree from Shanxi University in 2020, majoring in computer science and technology.
+
 My current research interests include data mining and trustworthy artificial intelligence. 
 I have published several papers in international journals and conferences, including Journal of Machine Intelligence Research, ACL, DASFAA, and COLING. I am also actively serving as a reviewer for international conferences such as ACL, EMNLP, SIGKDD, IJCNN, and so on.
 Feel free to contact me by <a href="mailto:yunxiaomr@163.com">email</a> if you are interested in discussing or collaborating with me.
@@ -44,7 +45,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 - [Nov. 2024] &nbsp; One paper on explainable multi-hop reasoning is accepted in [COLING2025](https://coling2025.org/).
 - [Aug. 2024] &nbsp; We attend the 2024 Annual Conference of the ACL in Bangkok, Thailand.
 - [May. 2024] &nbsp; One paper on Self-explaining Rationalization is accepted in [ACL2024](https://2024.aclweb.org/). 
-- [Apr. 2024] &nbsp; One Journal paper on FrameNet Knowledge is accepted on [MIR2024](https://www.mi-research.net/).
+- [Apr. 2024] &nbsp; One Journal paper on FrameNet knowledge is accepted on [MIR2024](https://www.mi-research.net/).
 - [Oct. 2022] &nbsp; 🏆 We get the First Prize on CMRC2022 (the 1st rank) in the 21st China National Conference on Computational Linguistics.
 - [May. 2022] &nbsp; Two Journal papers on Machine Reading Comprehension are accepted to the Journal of Chinese Information Processing.
 - [May. 2021] &nbsp; One paper on Explainable Evaluation is accepted in [Findings of ACL2021](https://2021.aclweb.org/). 
