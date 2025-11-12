@@ -55,6 +55,18 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 <span class="noter" style="color:#7d7d7d"> (* = equal contribution)</span> 
 <!--<span class="noter" style="color:#7d7d7d"> (* = equal contribution | † = I mentored)</span> -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/porat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learnable Game-theoretic Policy Optimization for Data-centric Self-explanation Rationalization](https://yunxiaomr.github.io/)
+
+Yunxiao Zhao, Zhiqiang Wang, Xingtong Yu, Xiaoli Li, Jiye Liang, Ru Li.
+
+- Rationalization, a data-centric framework, aims to build self-explanatory models to explain the prediction outcome by generating a subset of human-intelligible pieces of the input data. It involves a cooperative game model where a generator generates the most human-intelligible parts of the input (i.e., rationales), followed by a predictor that makes predictions based on these generated rationales. Conventional rationalization methods typically impose constraints via regularization terms to calibrate or penalize undesired generation. However, these methods are suffering from a problem called mode collapse, in which the predictor produces correct predictions yet the generator consistently outputs rationales with collapsed patterns. Moreover, existing studies are typically designed separately for specific collapsed patterns, lacking a unified consideration. 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/KnowProb1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
