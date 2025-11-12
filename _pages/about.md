@@ -55,7 +55,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 <span class="noter" style="color:#7d7d7d"> (* = equal contribution)</span> 
 <!--<span class="noter" style="color:#7d7d7d"> (* = equal contribution | † = I mentored)</span> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/porat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UnderReview 2025</div><img src='images/porat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learnable Game-theoretic Policy Optimization for Data-centric Self-explanation Rationalization](https://yunxiaomr.github.io/)
