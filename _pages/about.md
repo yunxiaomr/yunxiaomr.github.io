@@ -39,6 +39,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 
 # 🔥 News 
+- [Nov. 2025] &nbsp; One conference paper on self-explaining rationalization is accepted. 
 - [Nov. 2025] &nbsp; Welcome to our in-person meet-up at EMNLP 2025 in Suzhou, China!
 - [May. 2025] &nbsp; We attend DASFAA 2025 (International Conference on Database Systems for Advanced Applications) in Carlton Hotel Singapore.
 - [Apr. 2025] &nbsp; We attend ICLR 2025 (International Conference on Learning Representations) in Singapore EXPO. 
@@ -55,7 +56,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 <span class="noter" style="color:#7d7d7d"> (* = equal contribution)</span> 
 <!--<span class="noter" style="color:#7d7d7d"> (* = equal contribution | † = I mentored)</span> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UnderReview 2025</div><img src='images/porat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/porat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learnable Game-theoretic Policy Optimization for Data-centric Self-explanation Rationalization](https://yunxiaomr.github.io/)
