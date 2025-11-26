@@ -39,6 +39,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 
 # 🔥 News 
+- [Nov. 2025] &nbsp; One journal paper on self-explaining rationalization is accepted. 
 - [Nov. 2025] &nbsp; Welcome to our in-person meet-up at EMNLP 2025 in Suzhou, China!
 - [May. 2025] &nbsp; We attend DASFAA 2025 (International Conference on Database Systems for Advanced Applications) in Carlton Hotel Singapore.
 - [Apr. 2025] &nbsp; We attend ICLR 2025 (International Conference on Learning Representations) in Singapore EXPO. 
@@ -55,19 +56,18 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 <span class="noter" style="color:#7d7d7d"> (* = equal contribution)</span> 
 <!--<span class="noter" style="color:#7d7d7d"> (* = equal contribution | † = I mentored)</span> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UnderReview 2025</div><img src='images/porat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE2025</div><img src='images/porat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learnable Game-theoretic Policy Optimization for Data-centric Self-explanation Rationalization](https://yunxiaomr.github.io/)
 
 Yunxiao Zhao, Zhiqiang Wang, Xingtong Yu, Xiaoli Li, Jiye Liang, Ru Li.
 
-- Rationalization, a data-centric framework, aims to build self-explanatory models to explain the prediction outcome by generating a subset of human-intelligible pieces of the input data. It involves a cooperative game model where a generator generates the most human-intelligible parts of the input (i.e., rationales), followed by a predictor that makes predictions based on these generated rationales. Conventional rationalization methods typically impose constraints via regularization terms to calibrate or penalize undesired generation. However, these methods are suffering from a problem called mode collapse, in which the predictor produces correct predictions yet the generator consistently outputs rationales with collapsed patterns. Moreover, existing studies are typically designed separately for specific collapsed patterns, lacking a unified consideration. 
-
+- In this paper, we systematically revisit cooperative rationalization from a novel game-theoretic perspective and identify the fundamental cause of this problem. we then propose a novel approach, Game-theoretic Policy Optimization oriented RATionalization (PoRAT), which progressively introduces policy interventions to address the game equilibrium in the cooperative game process, thereby guiding the model toward a more optimal solution state.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/KnowProb1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA2025</div><img src='images/KnowProb1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective](https://yunxiaomr.github.io/)
@@ -79,7 +79,7 @@ Yunxiao Zhao, Hao Xu, Zhiqiang Wang, Xiaoli Li, Jiye Liang, Ru Li.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/LOG_.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING2025</div><img src='images/LOG_.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LOG: A Local-to-Global Optimization Approach for Retrieval-based Explainable Multi-Hop Question Answering](https://yunxiaomr.github.io/)
@@ -90,7 +90,7 @@ Hao Xu\*, Yunxiao Zhao\*, Jiayang Zhang, Zhiqiang Wang, Ru Li.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/AGR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL2024</div><img src='images/AGR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AGR: Reinforced Causal Agent Guided Self-explaining Rationalization](https://yunxiaomr.github.io/)
@@ -104,7 +104,7 @@ Yunxiao Zhao, Zhiqiang Wang, Xiaoli Li, Jiye Liang, Ru Li.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR 2024</div><img src='images/CFN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR2024</div><img src='images/CFN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A comprehensive Overview of CFN From a Commonsense Perspective](https://yunxiaomr.github.io/)
