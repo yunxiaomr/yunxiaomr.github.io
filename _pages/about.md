@@ -39,7 +39,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 
 # 🔥 News 
-- [Nov. 2025] &nbsp; One journal paper on self-explaining rationalization is accepted. 
+- [Dec. 2025] &nbsp; One journal paper on self-explaining rationalization is accepted. 
 - [Nov. 2025] &nbsp; Welcome to our in-person meet-up at EMNLP 2025 in Suzhou, China!
 - [May. 2025] &nbsp; We attend DASFAA 2025 (International Conference on Database Systems for Advanced Applications) in Carlton Hotel Singapore.
 - [Apr. 2025] &nbsp; We attend ICLR 2025 (International Conference on Learning Representations) in Singapore EXPO. 
