@@ -61,7 +61,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 [Learnable Game-theoretic Policy Optimization for Data-centric Self-explanation Rationalization](https://yunxiaomr.github.io/)
 
-Yunxiao Zhao, Zhiqiang Wang, Xingtong Yu, Xiaoli Li, Jiye Liang, Ru Li.
+**Yunxiao Zhao**, Zhiqiang Wang, Xingtong Yu, Xiaoli Li, Jiye Liang, Ru Li.
 
 - In this paper, we systematically revisit cooperative rationalization from a novel game-theoretic perspective and identify the fundamental cause of rationale collapse. We then propose a novel approach, Game-theoretic Policy Optimization oriented RATionalization (PoRAT), which progressively introduces policy interventions to address the game equilibrium in the cooperative game process, thereby guiding the model toward a more optimal solution state.
 </div>
@@ -72,7 +72,7 @@ Yunxiao Zhao, Zhiqiang Wang, Xingtong Yu, Xiaoli Li, Jiye Liang, Ru Li.
 
 [Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective](https://yunxiaomr.github.io/)
 
-Yunxiao Zhao, Hao Xu, Zhiqiang Wang, Xiaoli Li, Jiye Liang, Ru Li.
+**Yunxiao Zhao**, Hao Xu, Zhiqiang Wang, Xiaoli Li, Jiye Liang, Ru Li.
 
 - Pre-trained Language Models (PLMs) are trained on large amounts of unlabeled data, and they exhibit remarkable reasoning skills. However, the trustworthiness challenges have become increasingly evident. To alleviate this problem, we propose a novel knowledge-guided probing approach called KnowProb in a post-hoc explanation way, which aims to probe whether black-box PLMs understand implicit knowledge beyond the given text, rather than focusing only on the surface-level content of the text. 
 
@@ -84,7 +84,7 @@ Yunxiao Zhao, Hao Xu, Zhiqiang Wang, Xiaoli Li, Jiye Liang, Ru Li.
 
 [LOG: A Local-to-Global Optimization Approach for Retrieval-based Explainable Multi-Hop Question Answering](https://yunxiaomr.github.io/)
 
-Hao Xu\*, Yunxiao Zhao\*, Jiayang Zhang, Zhiqiang Wang, Ru Li.
+Hao Xu\*, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, Ru Li.
 
 - Explainable multi-hop question answering aims to utilize multi-source intensive documents retrieved to derive the answer. However, it is challenging to model the importance of knowledge retrieved. In this paper, we propose LOG, a novel optimized retrieval method to discover more beneficial knowledge from a local-to-global perspective, facilitating multi-hop reasoning, notably for long-chain reasoning.  
 </div>
@@ -95,7 +95,7 @@ Hao Xu\*, Yunxiao Zhao\*, Jiayang Zhang, Zhiqiang Wang, Ru Li.
 
 [AGR: Reinforced Causal Agent Guided Self-explaining Rationalization](https://yunxiaomr.github.io/)
 
-Yunxiao Zhao, Zhiqiang Wang, Xiaoli Li, Jiye Liang, Ru Li.
+**Yunxiao Zhao**, Zhiqiang Wang, Xiaoli Li, Jiye Liang, Ru Li.
 <!-- 
 <a href="https://aclanthology.org/2024.acl-short.47.pdf">**Paper**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <a href="../images/poster_agr.pdf">**Poster**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -109,7 +109,7 @@ Yunxiao Zhao, Zhiqiang Wang, Xiaoli Li, Jiye Liang, Ru Li.
 
 [A comprehensive Overview of CFN From a Commonsense Perspective](https://yunxiaomr.github.io/)
 
-Ru Li, Yunxiao Zhao, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Han, Hongyan Zhao.
+Ru Li, **Yunxiao Zhao**, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Han, Hongyan Zhao.
 <!-- 
 <a href="https://link.springer.com/article/10.1007/s11633-023-1450-8">**Paper**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <a href="https://www.mi-research.net/article/doi/10.1007/s11633-023-1450-8">**Poster**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
