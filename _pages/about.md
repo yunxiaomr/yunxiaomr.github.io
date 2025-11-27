@@ -140,8 +140,8 @@ Ru Li, **Yunxiao Zhao**, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoq
 
 
 # 📖 Educations
-- *2022.09 - 2026.06*, School of Computer and Information Technology, **Shanxi University**. Ph.D. Student.
-- *2024.12 - 2025.06*, School of Computer and Information Systems, **Singapore Management University**. Visiting Research Scholar.
+- *2024.12 -        *, School of Computer and Information Systems, **Singapore Management University**. Visiting Research Scholar.
+- *2022.09 -        *, School of Computer and Information Technology, **Shanxi University**. Ph.D. Student.
 - *2020.09 - 2022.06*, School of Computer and Information Technology, **Shanxi University**. Master Student.
 - *2016.09 - 2020.06*, School of Computer and Information Technology, **Shanxi University**. Undergraduate.
 
