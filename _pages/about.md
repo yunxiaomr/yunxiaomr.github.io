@@ -39,6 +39,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 
 # 🔥 News 
+- [Apr. 2026] &nbsp; Two conference papers on Neuro-Symbolic Logical Reasoning and Event Causality Identification are accepted by ACL 2026.
 - [Nov. 2025] &nbsp; One journal paper on self-explaining rationalization is accepted by IEEE TKDE. 
 - [Nov. 2025] &nbsp; Welcome to our in-person meet-up at EMNLP 2025 in Suzhou, China!
 - [May. 2025] &nbsp; We attend DASFAA 2025 (International Conference on Database Systems for Advanced Applications) in Carlton Hotel Singapore.
