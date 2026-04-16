@@ -65,7 +65,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 Yue Fan, Hu zhang, **Yunxiao Zhao**, Guangjun Zhang, Hao ZHAN, Ru Li, Hongye Tan, Wang Yuanlong
 
-- We propose Leibniz, a theory-of-mind driven neuro-symbolic reasoning framework. Specifically, we construct a bidirectional reasoning model based on multi-agent collaboration, which characterizes the reasoning process from two complementary perspectives, namely the Evolution Agent and the Reduction Agent.
+- We propose Leibniz, a theory-of-mind driven neuro-symbolic reasoning framework. We construct a bidirectional reasoning model based on multi-agent collaboration, which characterizes the reasoning process from two complementary perspectives.
 
 </div>
 </div>
