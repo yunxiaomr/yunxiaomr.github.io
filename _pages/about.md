@@ -57,6 +57,19 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 <span class="noter" style="color:#7d7d7d"> (* = equal contribution)</span> 
 <!--<span class="noter" style="color:#7d7d7d"> (* = equal contribution | † = I mentored)</span> -->
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL2026</div><img src='images/Leibniz.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration](https://yunxiaomr.github.io/)
+
+Yue Fan, Hu zhang, **Yunxiao Zhao**, Guangjun Zhang, Hao ZHAN, Ru Li, Hongye Tan, Wang Yuanlong
+
+- We propose Leibniz, a theory-of-mind driven neuro-symbolic reasoning framework. Specifically, we construct a bidirectional reasoning model based on multi-agent collaboration, which characterizes the reasoning process from two complementary perspectives, namely the Evolution Agent and the Reduction Agent.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE2025</div><img src='images/PORAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
