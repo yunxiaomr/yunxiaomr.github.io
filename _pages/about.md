@@ -57,7 +57,8 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 <span class="noter" style="color:#7d7d7d"> (* = equal contribution)</span> 
 <!--<span class="noter" style="color:#7d7d7d"> (* = equal contribution | † = I mentored)</span> -->
 
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE2025</div><img src='images/PORAT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Learnable Game-theoretic Policy Optimization for Data-centric Self-explanation Rationalization](https://yunxiaomr.github.io/)
 
@@ -81,8 +82,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR2024</div><img src='images/CFN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA2025</div><img src='images/KnowProb1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -95,9 +95,6 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING2025</div><img src='images/LOG_.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL2026</div><img src='images/Leibniz.png' alt="sym" width="100%"></div></div>
@@ -112,9 +109,9 @@ Yue Fan, Hu zhang, **Yunxiao Zhao**, Guangjun Zhang, Hao ZHAN, Ru Li, Hongye Tan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE2025</div><img src='images/PORAT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING2025</div><img src='images/LOG_.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [LOG: A Local-to-Global Optimization Approach for Retrieval-based Explainable Multi-Hop Question Answering](https://yunxiaomr.github.io/)
 
@@ -124,7 +121,8 @@ Hao Xu\*, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**.
 </div>
 </div>
 
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR2024</div><img src='images/CFN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [A comprehensive Overview of CFN From a Commonsense Perspective](https://yunxiaomr.github.io/)
 
