@@ -54,7 +54,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 - [May. 2021] &nbsp; One conference paper on explainable evaluation is accepted. 
 
 # 📝 Selected Publications 
-<span class="noter" style="color:#7d7d7d"> (* = equal contribution)</span> 
+<span class="noter" style="color:#7d7d7d"> (* = corresponding author)</span> 
 <!--<span class="noter" style="color:#7d7d7d"> (* = equal contribution | † = I mentored)</span> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE2025</div><img src='images/PORAT.png' alt="sym" width="100%"></div></div>
@@ -115,7 +115,7 @@ Yue Fan, Hu zhang, **Yunxiao Zhao**, Guangjun Zhang, Hao ZHAN, Ru Li, Hongye Tan
 
 [LOG: A Local-to-Global Optimization Approach for Retrieval-based Explainable Multi-Hop Question Answering](https://yunxiaomr.github.io/)
 
-Hao Xu\*, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**.
+Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**.
 
 - Explainable multi-hop question answering aims to utilize multi-source intensive documents retrieved to derive the answer. However, it is challenging to model the importance of knowledge retrieved. In this paper, we propose LOG, a novel optimized retrieval method to discover more beneficial knowledge from a local-to-global perspective, facilitating multi-hop reasoning, notably for long-chain reasoning.  
 </div>
