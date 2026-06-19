@@ -156,7 +156,7 @@ Hongye Tan, Xiaoyue Wang, Yu Ji, Ru Li, Xiaoli Li, Zhiwei Hu, **Yunxiao Zhao**, 
 <a href="https://link.springer.com/article/10.1007/s11633-023-1450-8">**Paper**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <a href="https://www.mi-research.net/article/doi/10.1007/s11633-023-1450-8">**Poster**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -->
-- In this paper, we propose GCRC, a new dataset with challenging and high-quality multi-choice questions with explainable evaluation, collected from Gaokao Chinese (Chinese subject from the National College Entrance Examination of China).  
+- In this paper, we propose GCRC, a new explainable evaluation dataset with challenging and high-quality multi-choice questions, collected from Gaokao Chinese (Chinese subject from the National College Entrance Examination of China).  
 </div>
 </div>
 
