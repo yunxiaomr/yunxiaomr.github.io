@@ -109,7 +109,7 @@ Yue Fan, Hu zhang, **Yunxiao Zhao**, Guangjun Zhang, Hao ZHAN, Ru Li, Hongye Tan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL2026</div><img src='images/SVRECI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL2026</div><img src='images/SVRECI.png' alt="sym" width="80%" height="100%";></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Suggest-Verify-Revise: A Three-Stage Document-Level Event Causality Identification with Narrative Consistency](https://yunxiaomr.github.io/)
