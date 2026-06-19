@@ -162,11 +162,15 @@ Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**. (* = corres
 - [Jun. 2021] The Outstanding Graduate Student (Master Student).
 
 # 📝 Services 
-- Annual Meeting of the Association for Computational Linguistics (ACL) 2024-2026 Reviewer.
-- ACM Knowledge Discovery and Data Mining (KDD) 2025-2026 Reviewer.
-- The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025 Reviewer.
+- Annual Meeting of the Association for Computational Linguistics (ACL) Reviewer.
+- The Conference on Empirical Methods in Natural Language Processing (EMNLP) Reviewer.
+- International Conference on Computational Linguistics (COLING) Reviewer.
+- ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD) Reviewer.
+- International Joint Conference on Neural Networks (IJCNN) Reviewer.
 - The International Conference on Database Systems for Advanced Applications (DASFAA) 2025 Volunteer.
-- International Joint Conference on Neural Networks (IJCNN) 2025 Reviewer.
+- The China National Conference on Computational Linguistics (CCL) 2024 Volunteer.
+- The International Symposium on Cognitive and Semantic Computing (ISCSC) 2023-2025 Volunteer.
+
 
 
 # 📖 Educations
