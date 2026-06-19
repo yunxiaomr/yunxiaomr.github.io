@@ -146,6 +146,20 @@ Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**. (* = corres
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL2021</div><img src='images/GCRC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GCRC: A New Challenging MRC Dataset from Gaokao Chinese for Explainable Evaluation](https://yunxiaomr.github.io/)
+
+Hongye Tan, Xiaoyue Wang, Yu Ji, Ru Li, Xiaoli Li, Zhiwei Hu, **Yunxiao Zhao**, Xiaoqi Han.
+<!-- 
+<a href="https://link.springer.com/article/10.1007/s11633-023-1450-8">**Paper**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<a href="https://www.mi-research.net/article/doi/10.1007/s11633-023-1450-8">**Poster**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-->
+- In this paper, we propose GCRC, a new dataset with challenging and high-quality multi-choice questions with explainable evaluation, collected from Gaokao Chinese (Chinese subject from the National College Entrance Examination of China).  
+</div>
+</div>
+
 
 
 # 🎖 Honors and Awards
@@ -177,7 +191,7 @@ Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**. (* = corres
 
 
 # 📖 Educations
-- 2022.09 - , School of Computer and Information Technology, Shanxi University. Ph.D. Student.
+- *2022.09 - *, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
 - *2024.12 - 2025.06*, School of Computer and Information Systems, Singapore Management University. Visiting Research Scholar.
 - *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
 - *2016.09 - 2020.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
