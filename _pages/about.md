@@ -50,7 +50,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 - [May. 2024] &nbsp; One conference paper on self-explaining rationalization is accepted. 
 - [Apr. 2023] &nbsp; One journal paper on Linguistic knowledge is accepted.
 - [Oct. 2022] &nbsp; 🏆 We won the First Prize (1st place) - CMRC2022@CCL2022, Chinese Information Processing Society (CIPS), China!
-- [May. 2022] &nbsp; Two journal papers on machine reading comprehension are accepted.
+- [May. 2022] &nbsp; One journal paper on machine reading comprehension and one journal paper on text semantic matching are accepted.
 - [May. 2021] &nbsp; One conference paper on explainable evaluation is accepted. 
 
 # 📝 Selected Publications 
