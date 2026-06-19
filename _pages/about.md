@@ -138,7 +138,9 @@ Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**. (* = corres
 
 
 # 🎖 Honors and Awards
-- [Jun. 2025] The Outstanding Graduate Student (PhD Research Student).
+- [Jun. 2026] The Outstanding Graduate Student (PhD Student).
+- [Jun. 2026] The First Class Award Scholarship of the Graduate School, Shanxi University, in 2026.
+- [Jun. 2025] The Outstanding Graduate Student (PhD Student).
 - [Jun. 2025] The Second Class Award Scholarship of the Graduate School, Shanxi University, in 2025.
 - [Jul. 2024] Chinese Government Scholarship-High Level Graduate Programs in Shanxi Province, in 2024.
 - [Jun. 2024] The First Class Award Scholarship of the Graduate School, Shanxi University, in 2024.
@@ -146,7 +148,7 @@ Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**. (* = corres
 - [Oct. 2022] The Champion Award on CCL2022@CMRC, Chinese Information Processing Society of China (CIPS), in 2022.
 - [Jun. 2022] The First Class Award Scholarship of the Graduate School, Shanxi University, in 2022.
 - [Jun. 2021] The First Class Award Scholarship of the Graduate School, Shanxi University, in 2021.
-- [Jun. 2021] The Outstanding Graduate Student (Master Research Student).
+- [Jun. 2021] The Outstanding Graduate Student (Master Student).
 
 # 📝 Services 
 - Annual Meeting of the Association for Computational Linguistics (ACL) 2024-2026 Reviewer.
@@ -157,11 +159,11 @@ Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**. (* = corres
 
 
 # 📖 Educations
-- *2024.12 -        *, School of Computer and Information Systems, **Singapore Management University**. Visiting Research Scholar.
-- *2022.09 -        *, School of Computer and Information Technology, **Shanxi University**. Ph.D. Student.
-- *2020.09 - 2022.06*, School of Computer and Information Technology, **Shanxi University**. Master Student.
-- *2016.09 - 2020.06*, School of Computer and Information Technology, **Shanxi University**. Undergraduate.
-
+- *2022.09 -        *, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
+- *2024.12 - 2025.06*, School of Computer and Information Systems, Singapore Management University. Visiting Research Scholar.
+- *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
+- *2016.09 - 2020.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
+- *2013.09 - 2016.06*, No.1 Middle School of Xiangfen. High school student.
 
 # 💬 Presentation
 - [May. 2025], we share our work by an oral presentation on [DASFAA2025](https://dasfaa2025.github.io/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
