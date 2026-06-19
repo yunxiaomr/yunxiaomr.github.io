@@ -195,7 +195,7 @@ Hongye Tan, Xiaoyue Wang, Yu Ji, Ru Li, Xiaoli Li, Zhiwei Hu, **Yunxiao Zhao**, 
 - *2024.12 - 2025.06*, School of Computer and Information Systems, Singapore Management University. Visiting Research Scholar.
 - *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
 - *2016.09 - 2020.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
-- *2013.09 - 2016.06*, No.1 Middle School of Xiangfen. High school student.
+
 
 # 💬 Presentation
 - [May. 2025], we share our work by an oral presentation on [DASFAA2025](https://dasfaa2025.github.io/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
