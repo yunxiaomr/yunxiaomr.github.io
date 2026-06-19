@@ -51,7 +51,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 - [Apr. 2023] &nbsp; One journal paper on Linguistic knowledge is accepted.
 - [Oct. 2022] &nbsp; 🏆 We won the First Prize (1st place) - CMRC2022@CCL2022, Chinese Information Processing Society (CIPS), China!
 - [May. 2022] &nbsp; One journal paper on machine reading comprehension and one journal paper on text semantic matching are accepted.
-- [May. 2021] &nbsp; One conference paper on explainable evaluation is accepted. 
+- [May. 2021] &nbsp; One conference paper on explainable evaluation is accepted by Findings of ACL 2021. 
 
 # 📝 Selected Publications 
 <!--<span class="noter" style="color:#7d7d7d"> (* = corresponding author)</span> -->
