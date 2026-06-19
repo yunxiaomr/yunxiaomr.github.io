@@ -149,9 +149,9 @@ Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**. (* = corres
 
 
 # 🎖 Honors and Awards
-- [Jun. 2026] The Outstanding Graduate Student (PhD Student).
+- [Jun. 2026] The Outstanding Graduate Student (PhD Student) in 2026.
 - [Jun. 2026] The First Class Award Scholarship of the Graduate School, Shanxi University, in 2026.
-- [Jun. 2025] The Outstanding Graduate Student (PhD Student).
+- [Jun. 2025] The Outstanding Graduate Student (PhD Student) in 2025. 
 - [Jun. 2025] The Second Class Award Scholarship of the Graduate School, Shanxi University, in 2025.
 - [Jul. 2024] Chinese Government Scholarship-High Level Graduate Programs in Shanxi Province, in 2024.
 - [Jun. 2024] The First Class Award Scholarship of the Graduate School, Shanxi University, in 2024.
@@ -177,7 +177,7 @@ Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**. (* = corres
 
 
 # 📖 Educations
-- *2022.09 -        *, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
+- 2022.09 - , School of Computer and Information Technology, Shanxi University. Ph.D. Student.
 - *2024.12 - 2025.06*, School of Computer and Information Systems, Singapore Management University. Visiting Research Scholar.
 - *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
 - *2016.09 - 2020.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
