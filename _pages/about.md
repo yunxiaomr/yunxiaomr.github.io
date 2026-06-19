@@ -162,10 +162,13 @@ Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**. (* = corres
 - [Jun. 2021] The Outstanding Graduate Student (Master Student).
 
 # 📝 Services 
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) Reviewer.
+- IEEE Transactions on Multimedia (TMM) Reviewer. 
 - Annual Meeting of the Association for Computational Linguistics (ACL) Reviewer.
 - The Conference on Empirical Methods in Natural Language Processing (EMNLP) Reviewer.
 - International Conference on Computational Linguistics (COLING) Reviewer.
 - ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD) Reviewer.
+- The Association for the Advancement of Artificial Intelligence (AAAI) Reviewer. 
 - International Joint Conference on Neural Networks (IJCNN) Reviewer.
 - The International Conference on Database Systems for Advanced Applications (DASFAA) 2025 Volunteer.
 - The China National Conference on Computational Linguistics (CCL) 2024 Volunteer.
