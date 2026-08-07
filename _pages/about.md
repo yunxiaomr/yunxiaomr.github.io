@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a PhD student (2022-) in Computer Science and Technology at Shanxi University, supervised by Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0). Meanwhile, I am co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Singapore University of Technology and Design, Nanyang Technological University, and A*Star, Singapore. Before that, I received my B.S. degree from Shanxi University in 2020, majoring in computer science and technology.
+I am now a final-year PhD student (2022-) in Computer Science and Technology at Shanxi University, supervised by Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0). Meanwhile, I am co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Singapore University of Technology and Design, Nanyang Technological University, and A*Star, Singapore. Before that, I received my B.S. degree from Shanxi University, majoring in computer science and technology.
 
 My current research interests include data mining, trustworthy artificial intelligence and natural language processing. 
 
@@ -191,10 +191,11 @@ Hongye Tan, Xiaoyue Wang, Yu Ji, Ru Li, Xiaoli Li, Zhiwei Hu, **Yunxiao Zhao**, 
 
 
 # 📖 Educations
-- *2022.09 - *, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
-- *2024.12 - 2025.06*, School of Computer and Information Systems, Singapore Management University. Visiting Research Scholar.
-- *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
-- *2016.09 - 2020.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
+- *2026 - 2027*, Information Systems Technology and Design, Singapore University of Technology and Design (SUTD). Visiting Research Scholar.
+- *2024 - 2025*, School of Computer and Information Systems, Singapore Management University (SMU). Visiting Research Scholar.
+- *2022 - 2027*, School of Computer and Information Technology, Shanxi University (SXU). Ph.D. Student.
+- *2020 - 2022*, School of Computer and Information Technology, Shanxi University (SXU). Master Student.
+- *2016 - 2020*, School of Computer and Information Technology, Shanxi University (SXU). Undergraduate.
 
 
 # 💬 Presentation
