@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a final-year PhD student (2022-) in Computer Science and Technology at Shanxi University, supervised by Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0). Meanwhile, I am co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Singapore University of Technology and Design, Nanyang Technological University, and A*Star, Singapore. Before that, I received my B.S. degree from Shanxi University, majoring in computer science and technology.
+I am currently a final-year Ph.D. student (2022–present) in Computer Science and Technology at Shanxi University, supervised by Prof. [Ru Li](https://cs.sxu.edu.cn/faculty/professor/1448/index.htm). I am also co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Singapore University of Technology and Design (SUTD), Nanyang Technological University (NTU), and A*STAR, Singapore. Before that, I received my B.S. degree in Computer Science and Technology from Shanxi University as a member of the Elite Experimental Class.
 
 My current research interests include data mining, trustworthy artificial intelligence and natural language processing. 
 
