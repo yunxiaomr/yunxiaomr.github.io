@@ -26,7 +26,7 @@ Feel free to contact me by <a href="mailto:yunxiaomr@163.com">email</a> if you a
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> 
 It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
-<!--I have published several papers in some international journals and conferences, including Journal of Machine Intelligence Research, ACL, DASFAA, and COLING. I am also actively serving as a reviewer for some international conferences such as ACL, EMNLP, SIGKDD, IJCNN, and so on. -->
+<!--I have published several papers in some international journals and conferences, including IEEETKDE, Journal of Machine Intelligence Research, ACL, EMNLP, COLING, DASFAA, and so on. I am also actively serving as a reviewer for some international conferences such as ACL, EMNLP, COLING, SIGKDD, AAAI, IJCNN, and so on. -->
 <!--My research interests focus on explainable natural language processing, including explainable probing, rationalization, and reasoning. -->
 <!--I am also interested in explicit knowledge and implicit knowledge, such as FrameNet KBs and Parameterized PLMs.-->
 <!--<div style="text-align: center; margin-top: 0px;"> -->
@@ -199,8 +199,9 @@ Hongye Tan, Xiaoyue Wang, Yu Ji, Ru Li, Xiaoli Li, Zhiwei Hu, **Yunxiao Zhao**, 
 
 
 # 💬 Presentation
-- [Jul. 2026], we share our work by a poster presentation on [ACL2026](https://dasfaa2025.github.io/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
+- [Jul. 2026], we share our paper on [ACL2026](https://2026.aclweb.org/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
 - [May. 2025], we share our work by an oral presentation on [DASFAA2025](https://dasfaa2025.github.io/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
+- [Jan. 2025], we share our paper on [COLING2025](https://coling2025.org/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
 - [Aug. 2024], we present our paper on [ACL2024](https://dasfaa2025.github.io/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
 - [Oct. 2022], we share our tutorial by an oral presentation on [CMRC2022@CCL2022](https://hfl-rc.github.io/cmrc2022/program/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
 
