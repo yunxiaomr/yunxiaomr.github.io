@@ -58,20 +58,17 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 <!--<span class="noter" style="color:#7d7d7d"> (* = corresponding author)</span> -->
 <!--<span class="noter" style="color:#7d7d7d"> (* = equal contribution | † = I mentored)</span> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE2025</div><img src='images/PORAT.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
-
 [Learnable Game-theoretic Policy Optimization for Data-centric Self-explanation Rationalization](https://yunxiaomr.github.io/)
-
 **Yunxiao Zhao**, Zhiqiang Wang, Xingtong Yu, Xiaoli Li, Jiye Liang, **Ru Li**.
 
 - In this paper, we systematically revisit cooperative rationalization from a novel game-theoretic perspective and identify the fundamental cause of rationale collapse. We then propose a novel approach, Game-theoretic Policy Optimization oriented RATionalization (PoRAT), which progressively introduces policy interventions to address the game equilibrium in the cooperative game process, thereby guiding the model toward a more optimal solution state.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL2024</div><img src='images/AGR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
+<div class='paper-box-text' markdown="1">
 [AGR: Reinforced Causal Agent Guided Self-explaining Rationalization](https://yunxiaomr.github.io/)
 
 **Yunxiao Zhao**, Zhiqiang Wang, Xiaoli Li, Jiye Liang, **Ru Li**.
@@ -85,7 +82,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA2025</div><img src='images/KnowProb1.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 [Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective](https://yunxiaomr.github.io/)
@@ -98,7 +95,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL2026</div><img src='images/Leibniz.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 [Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration](https://yunxiaomr.github.io/)
@@ -110,7 +107,7 @@ Yue Fan, Hu zhang, **Yunxiao Zhao**, Guangjun Zhang, Hao ZHAN, Ru Li, Hongye Tan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL2026</div><img src='images/SVRECI.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 [Suggest-Verify-Revise: A Three-Stage Document-Level Event Causality Identification with Narrative Consistency](https://yunxiaomr.github.io/)
@@ -122,7 +119,7 @@ Ya Su, Hu Zhang, Dan Qiao, YuJie Wang, **Yunxiao Zhao**, Yue Fan, Shike Li, Ru L
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING2025</div><img src='images/LOG_.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 [LOG: A Local-to-Global Optimization Approach for Retrieval-based Explainable Multi-Hop Question Answering](https://yunxiaomr.github.io/)
@@ -133,7 +130,7 @@ Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**. (* = corres
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR2024</div><img src='images/CFN.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 [A comprehensive Overview of CFN From a Commonsense Perspective](https://yunxiaomr.github.io/)
@@ -147,7 +144,7 @@ Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**. (* = corres
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL2021</div><img src='images/GCRC.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 [GCRC: A New Challenging MRC Dataset from Gaokao Chinese for Explainable Evaluation](https://yunxiaomr.github.io/)
