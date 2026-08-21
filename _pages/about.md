@@ -18,9 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-PhD at Shanxi University, supervised by Prof. Ru Li and co-supervised by Prof. Xiaoli Li (IEEE Fellow), affiliated with SUTD, NTU, and A*STAR, Singapore. Before, undergraduate at Shanxi University as a member of the Elite Experimental Class. My research interests include data mining, trustworthy AI, and NLP. At SXU, I closely collaborate with Zhiqiang Wang and Jiye Liang. I also actively collaborate with Yuan Fang at SMU, Delvin Zhang at the University of Sheffield, and Xingtong Yu at CUHK.
-
-My current research interests include data mining, trustworthy artificial intelligence and natural language processing. 
+PhD at Shanxi University, supervised by Prof. [Ru Li](https://cs.sxu.edu.cn/faculty/professor/1448/index.htm) and co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/) (IEEE Fellow), affiliated with SUTD, NTU, and A*STAR, Singapore. Before, undergraduate at Shanxi University as a member of the Elite Experimental Class. My research interests include data mining, trustworthy AI, and NLP. At SXU, I closely collaborate with Prof. [Zhiqiang Wang](https://scholar.google.com/citations?user=kirB018AAAAJ) and Prof. [Jiye Liang](https://scholar.google.com.hk/citations?user=ElmbPa4AAAAJ). I also actively collaborate with Yuan Fang at SMU, Delvin Zhang at the University of Sheffield, and Xingtong Yu at CUHK.
 
 Feel free to contact me by <a href="mailto:yunxiaomr@163.com">email</a> if you are interested in discussing or collaborating with me.
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> 
