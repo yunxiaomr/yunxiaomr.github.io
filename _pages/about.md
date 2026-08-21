@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final-year Ph.D. student (2022–present) in Computer Science and Technology at Shanxi University, supervised by Prof. [Ru Li](https://cs.sxu.edu.cn/faculty/professor/1448/index.htm). I am also co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Singapore University of Technology and Design (SUTD), Nanyang Technological University (NTU), and A*STAR, Singapore. Before that, I received my B.S. degree in Computer Science and Technology from Shanxi University as a member of the Elite Experimental Class.
+PhD at Shanxi University, supervised by Prof. Ru Li and co-supervised by Prof. Xiaoli Li (IEEE Fellow), affiliated with SUTD, NTU, and A*STAR, Singapore. Before, undergraduate at Shanxi University as a member of the Elite Experimental Class. My research interests include data mining, trustworthy AI, and NLP. At SXU, I closely collaborate with Zhiqiang Wang and Jiye Liang. I also actively collaborate with Yuan Fang at SMU, Delvin Zhang at the University of Sheffield, and Xingtong Yu at CUHK.
 
 My current research interests include data mining, trustworthy artificial intelligence and natural language processing. 
 
