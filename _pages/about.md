@@ -61,7 +61,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 <div class='paper-box-text' markdown="1">
 
-[Learnable Game-theoretic Policy Optimization for Data-centric Self-explanation Rationalization](https://yunxiaomr.github.io/)
+(IEEE TKDE2025) [Learnable Game-theoretic Policy Optimization for Data-centric Self-explanation Rationalization](https://yunxiaomr.github.io/)
 
 **Yunxiao Zhao**, Zhiqiang Wang, Xingtong Yu, Xiaoli Li, Jiye Liang, **Ru Li**.
 
@@ -72,7 +72,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 <div class='paper-box-text' markdown="1">
   
-[AGR: Reinforced Causal Agent Guided Self-explaining Rationalization](https://yunxiaomr.github.io/)
+(ACL2024 Main) [AGR: Reinforced Causal Agent Guided Self-explaining Rationalization](https://yunxiaomr.github.io/)
 
 **Yunxiao Zhao**, Zhiqiang Wang, Xiaoli Li, Jiye Liang, **Ru Li**.
 <!-- 
@@ -88,7 +88,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 <div class='paper-box-text' markdown="1">
 
-[Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective](https://yunxiaomr.github.io/)
+(DASFAA2025 Main) [Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective](https://yunxiaomr.github.io/)
 
 **Yunxiao Zhao**, Hao Xu, Zhiqiang Wang, Xiaoli Li, Jiye Liang, **Ru Li**.
 
@@ -97,35 +97,42 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 </div>
 
 
+<div class='paper-box-text' markdown="1">
+
+(EMNLP2026 Main) [CuRLRank: Curriculum-Guided Reinforcement Learning for Reasoning-Intensive Reranking](https://yunxiaomr.github.io/)
+
+Xin Kang, **Yunxiao Zhao**\*, Jiayang Zhang, Juncai Li, Zhichao Yan, XiaoQi Han, **Ru Li**, Delvin Ce Zhang. (* = corresponding author)
+
+- We propose CuRLRank, which consists of (1) CuRL, an adaptive curriculum reinforcement learning approach that enables LLMs to develop complex reasoning capabilities across varying levels of difficulty, and (2) IFRS, an iterative filtering ranking strategy to achieve efficient and robust ranking. 
+</div>
 
 
 <div class='paper-box-text' markdown="1">
 
-[Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration](https://yunxiaomr.github.io/)
+(EMNLP2026 Main) [Responsibility-Aware Scheduling for Selective Rationalization](https://yunxiaomr.github.io/)
 
-Yue Fan, Hu zhang, **Yunxiao Zhao**, Guangjun Zhang, Hao ZHAN, Ru Li, Hongye Tan, Wang Yuanlong
+Dengchao Zhang, **Yunxiao Zhao**\*, Zhichao Yan, Yue Fan, Shaoru Guo, **Ru Li**. (* = corresponding author)
 
-- We propose Leibniz, a theory-of-mind driven neuro-symbolic reasoning framework. We construct a bidirectional reasoning model based on multi-agent collaboration, which characterizes the reasoning process from two complementary perspectives.
+- We propose ReSR (Responsibility-Aware Scheduling for Rationalization), a training-control framework that keeps the standard select-then-predict path while adaptively scheduling generator and predictor updates. ReSR uses online, probe, and reference diagnostics with rationale-structure signals to attribute failures to generator-side rationale quality or predictor lag; a virtual-runtime scheduler then converts this attribution into generator/predictor debts and allocates the next optimization slice.
+</div>
+
+
+<div class='paper-box-text' markdown="1">
+
+(EMNLP2026 Findings) [MulEG: Multi-Level Explanation-Guided Feature Attribute Graph for Zero-Shot Tabular Classification](https://yunxiaomr.github.io/)
+
+Jiayang Zhang, **Yunxiao Zhao**\*, Xin Kang, Zhichao Yan, Boxiang Ma, Qinghua Chai, Xingtong Yu, **Ru Li**. (* = corresponding author)
+
+- We propose a novel method (MulEG), which harnesses multi-level textual explanations with a feature attribute graph to model both tabular topology and cell-element relations.
 
 </div>
 
 
 
-<div class='paper-box-text' markdown="1">
-
-[Suggest-Verify-Revise: A Three-Stage Document-Level Event Causality Identification with Narrative Consistency](https://yunxiaomr.github.io/)
-
-Ya Su, Hu Zhang, Dan Qiao, YuJie Wang, **Yunxiao Zhao**, Yue Fan, Shike Li, Ru Li, Hongye Tan
-
-- Document-level Event Causality Identification aims to identify causal relations among multiple events within unstructured text. To model the overall narrative backbone in the propagation of causal dependencies and the role differentiation of events within multi-cause/multi-effect structures, we propose a suggest-verify-revise approach for document-level event causality identification with narrative consistency.
-
-</div>
-
-
 
 <div class='paper-box-text' markdown="1">
 
-[LOG: A Local-to-Global Optimization Approach for Retrieval-based Explainable Multi-Hop Question Answering](https://yunxiaomr.github.io/)
+(COLING2025 Main) [LOG: A Local-to-Global Optimization Approach for Retrieval-based Explainable Multi-Hop Question Answering](https://yunxiaomr.github.io/)
 
 Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**. (* = corresponding author)
 
@@ -136,7 +143,7 @@ Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**. (* = corres
 
 <div class='paper-box-text' markdown="1">
 
-[A comprehensive Overview of CFN From a Commonsense Perspective](https://yunxiaomr.github.io/)
+(JMIR2024) [A comprehensive Overview of CFN From a Commonsense Perspective](https://yunxiaomr.github.io/)
 
 **Ru Li**, **Yunxiao Zhao**, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Han, Hongyan Zhao.
 <!-- 
@@ -148,9 +155,34 @@ Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**. (* = corres
 
 
 
+
 <div class='paper-box-text' markdown="1">
 
-[GCRC: A New Challenging MRC Dataset from Gaokao Chinese for Explainable Evaluation](https://yunxiaomr.github.io/)
+(ACL2026 Main) [Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration](https://yunxiaomr.github.io/)
+
+Yue Fan, Hu zhang, **Yunxiao Zhao**, Guangjun Zhang, Hao ZHAN, Ru Li, Hongye Tan, Wang Yuanlong
+
+- We propose Leibniz, a theory-of-mind driven neuro-symbolic reasoning framework. We construct a bidirectional reasoning model based on multi-agent collaboration, which characterizes the reasoning process from two complementary perspectives.
+
+</div>
+
+
+
+<div class='paper-box-text' markdown="1">
+
+(ACL2026 Main) [Suggest-Verify-Revise: A Three-Stage Document-Level Event Causality Identification with Narrative Consistency](https://yunxiaomr.github.io/)
+
+Ya Su, Hu Zhang, Dan Qiao, YuJie Wang, **Yunxiao Zhao**, Yue Fan, Shike Li, Ru Li, Hongye Tan
+
+- Document-level Event Causality Identification aims to identify causal relations among multiple events within unstructured text. To model the overall narrative backbone in the propagation of causal dependencies and the role differentiation of events within multi-cause/multi-effect structures, we propose a suggest-verify-revise approach for document-level event causality identification with narrative consistency.
+
+</div>
+
+
+
+<div class='paper-box-text' markdown="1">
+
+(ACL2021 Findings) [GCRC: A New Challenging MRC Dataset from Gaokao Chinese for Explainable Evaluation](https://yunxiaomr.github.io/)
 
 Hongye Tan, Xiaoyue Wang, Yu Ji, Ru Li, Xiaoli Li, Zhiwei Hu, **Yunxiao Zhao**, Xiaoqi Han.
 <!-- 
