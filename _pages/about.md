@@ -60,7 +60,9 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 
 <div class='paper-box-text' markdown="1">
+
 [Learnable Game-theoretic Policy Optimization for Data-centric Self-explanation Rationalization](https://yunxiaomr.github.io/)
+
 **Yunxiao Zhao**, Zhiqiang Wang, Xingtong Yu, Xiaoli Li, Jiye Liang, **Ru Li**.
 
 - In this paper, we systematically revisit cooperative rationalization from a novel game-theoretic perspective and identify the fundamental cause of rationale collapse. We then propose a novel approach, Game-theoretic Policy Optimization oriented RATionalization (PoRAT), which progressively introduces policy interventions to address the game equilibrium in the cooperative game process, thereby guiding the model toward a more optimal solution state.
@@ -69,6 +71,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 
 <div class='paper-box-text' markdown="1">
+  
 [AGR: Reinforced Causal Agent Guided Self-explaining Rationalization](https://yunxiaomr.github.io/)
 
 **Yunxiao Zhao**, Zhiqiang Wang, Xiaoli Li, Jiye Liang, **Ru Li**.
