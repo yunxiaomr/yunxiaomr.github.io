@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yunxiao Zhao"
-description              : "I am now a PhD student."
+description              : "PhD@SXU."
 repository               : "yunxiaomr/yunxiaomr.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yunxiao Zhao"
   avatar           : "images/yunxiao.jpeg"
-  bio              : "Shanxi University"
-  location         : "Taiyuan, China"
+  bio              : "SXU & SUTD"
+  location         : "China & Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=WKdMaLUAAAAJ&view_op=list_works&sortby=pubdate"
