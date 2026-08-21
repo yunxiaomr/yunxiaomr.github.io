@@ -23,7 +23,6 @@ redirect_from:
 <!--At SXU, I closely collaborate with [Prof. Zhiqiang Wang](https://scholar.google.com/citations?user=kirB018AAAAJ) and [Prof. Jiye Liang](https://scholar.google.com.hk/citations?user=ElmbPa4AAAAJ) (IEEE Fellow). I also collaborate with [Prof. Wenxuan Zhang](https://isakzhang.github.io/) at SUTD, [Prof. Yuan Fang](https://www.yfang.site/group0)) at SMU, [Asst. Prof. Delvin Ce Zhang](https://www.delvincezhang.com/) at the University of Sheffield, and [Dr. Xingtong Yu](https://xingtongyu.netlify.app/) at CUHK.-->
 
 PhD at [Shanxi University](https://www.sxu.edu.cn/), supervised by [Prof. Ru Li](https://cs.sxu.edu.cn/faculty/professor/1448/index.htm) and co-supervised by [Prof. Xiaoli Li](https://personal.ntu.edu.sg/xlli/) (IEEE Fellow), affiliated with SUTD, NTU, and A*STAR, Singapore. Previously, undergraduate at Shanxi University as a member of the Elite Experimental Class. Research interests: data mining, trustworthy AI, and NLP. 
-
 Closely collaborating with [Prof. Zhiqiang Wang](https://scholar.google.com/citations?user=kirB018AAAAJ) and [Prof. Jiye Liang](https://scholar.google.com.hk/citations?user=ElmbPa4AAAAJ) (IEEE Fellow) at SXU, as well as [Prof. Wenxuan Zhang](https://isakzhang.github.io/) at SUTD, [Prof. Yuan Fang](https://www.yfang.site/group) at SMU, [Prof. Delvin Ce Zhang](https://www.delvincezhang.com/) at the University of Sheffield, and [Dr. Xingtong Yu](https://xingtongyu.netlify.app/) at CUHK.
 
 
@@ -45,7 +44,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 # 🔥 News 
 - [Aug. 2026] &nbsp; Two papers were accepted to EMNLP2026 Main Conference, and one paper was accepted to the EMNLP2026 Findings.
-- [Apr. 2026] &nbsp; One paper on LLM logical reasoning and one paper on information extraction are accepted by ACL 2026.
+- [Apr. 2026] &nbsp; One paper on LLM logical reasoning and one paper on information extraction are accepted by ACL2026 Main.
 - [Nov. 2025] &nbsp; One journal paper on selective rationalization is accepted by IEEE TKDE. 
 - [Nov. 2025] &nbsp; Welcome to our in-person meet-up at EMNLP 2025 in Suzhou, China!
 - [May. 2025] &nbsp; We attend DASFAA 2025 (International Conference on Database Systems for Advanced Applications) in Carlton Hotel Singapore.
