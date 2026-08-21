@@ -177,7 +177,7 @@ Yue Fan, Hu zhang, **Yunxiao Zhao**, Guangjun Zhang, Hao ZHAN, **Ru Li**, Hongye
 
 (ACL2026 Main) [Suggest-Verify-Revise: A Three-Stage Document-Level Event Causality Identification with Narrative Consistency](https://yunxiaomr.github.io/)
 
-Ya Su, Hu Zhang, Dan Qiao, YuJie Wang, **Yunxiao Zhao**, Yue Fan, Shike Li, **Ru Li**, Hongye Tan
+Ya Su, Hu Zhang, Dan Qiao, Yujie Wang, **Yunxiao Zhao**, Yue Fan, Shike Li, **Ru Li**, Hongye Tan
 
 - Document-level Event Causality Identification aims to identify causal relations among multiple events within unstructured text. To model the overall narrative backbone in the propagation of causal dependencies and the role differentiation of events within multi-cause/multi-effect structures, we propose a suggest-verify-revise approach for document-level event causality identification with narrative consistency.
 
