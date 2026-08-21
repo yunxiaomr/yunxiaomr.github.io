@@ -39,6 +39,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 
 # 🔥 News 
+- [Aug. 2026] &nbsp; Two papers were accepted to EMNLP2026 Main Conference, and one paper was accepted to the EMNLP2026 Findings.
 - [Apr. 2026] &nbsp; One paper on neuro-symbolic logical reasoning and one paper on event causality identification are accepted by ACL 2026.
 - [Nov. 2025] &nbsp; One journal paper on self-explaining rationalization is accepted by IEEE TKDE. 
 - [Nov. 2025] &nbsp; Welcome to our in-person meet-up at EMNLP 2025 in Suzhou, China!
