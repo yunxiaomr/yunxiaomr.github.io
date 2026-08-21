@@ -18,7 +18,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-PhD at Shanxi University, supervised by Prof. [Ru Li](https://cs.sxu.edu.cn/faculty/professor/1448/index.htm) and co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/) (IEEE Fellow), affiliated with SUTD, NTU, and A*STAR, Singapore. Before, undergraduate at Shanxi University as a member of the Elite Experimental Class. My research interests include data mining, trustworthy AI, and NLP. At SXU, I closely collaborate with Prof. [Zhiqiang Wang](https://scholar.google.com/citations?user=kirB018AAAAJ) and Prof. [Jiye Liang](https://scholar.google.com.hk/citations?user=ElmbPa4AAAAJ). I also actively collaborate with (Yuan Fang)[https://scholar.google.com/citations?user=XkBJjPUAAAAJ] at SMU, [Delvin Ce Zhang](https://www.delvincezhang.com/) at the University of Sheffield, and [Xingtong Yu](https://xingtongyu.netlify.app/) at CUHK.
+
+PhD at [Shanxi University](https://www.sxu.edu.cn/), supervised by Prof. [Ru Li](https://cs.sxu.edu.cn/faculty/professor/1448/index.htm) and co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/) (IEEE Fellow), who is affiliated with SUTD, NTU, and A*STAR, Singapore. Previously, I was an undergraduate at Shanxi University as a member of the Elite Experimental Class. My research interests include data mining, trustworthy AI, and NLP.
+At SXU, I closely collaborate with Prof. [Zhiqiang Wang](https://scholar.google.com/citations?user=kirB018AAAAJ) and Prof. [Jiye Liang](https://scholar.google.com.hk/citations?user=ElmbPa4AAAAJ). I also collaborate with the [iNLP Lab](https://www.yfang.site/group) at SUTD, the [FANG Lab](https://www.yfang.site/group) at SMU, [Asst. Prof. Delvin Ce Zhang](https://www.delvincezhang.com/) at the University of Sheffield, and [Dr. Xingtong Yu](https://xingtongyu.netlify.app/) at CUHK.
 
 Feel free to contact me by <a href="mailto:yunxiaomr@163.com">email</a> if you are interested in discussing or collaborating with me.
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> 
@@ -38,15 +40,15 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 # 🔥 News 
 - [Aug. 2026] &nbsp; Two papers were accepted to EMNLP2026 Main Conference, and one paper was accepted to the EMNLP2026 Findings.
-- [Apr. 2026] &nbsp; One paper on neuro-symbolic logical reasoning and one paper on event causality identification are accepted by ACL 2026.
-- [Nov. 2025] &nbsp; One journal paper on self-explaining rationalization is accepted by IEEE TKDE. 
+- [Apr. 2026] &nbsp; One paper on LLM logical reasoning and one paper on information extraction are accepted by ACL 2026.
+- [Nov. 2025] &nbsp; One journal paper on selective rationalization is accepted by IEEE TKDE. 
 - [Nov. 2025] &nbsp; Welcome to our in-person meet-up at EMNLP 2025 in Suzhou, China!
 - [May. 2025] &nbsp; We attend DASFAA 2025 (International Conference on Database Systems for Advanced Applications) in Carlton Hotel Singapore.
 - [Apr. 2025] &nbsp; We attend ICLR 2025 (International Conference on Learning Representations) in Singapore EXPO. 
-- [Jan. 2025] &nbsp; One conference paper on explainable knowledge probing is accepted.
-- [Nov. 2024] &nbsp; One conference paper on explainable multi-hop reasoning is accepted.
+- [Jan. 2025] &nbsp; One conference paper on knowledge probing is accepted.
+- [Nov. 2024] &nbsp; One conference paper on multi-hop reasoning is accepted.
 - [Aug. 2024] &nbsp; We attend ACL 2024 (Annual Meeting of the Association for Computational Linguistics) in Bangkok, Thailand.
-- [May. 2024] &nbsp; One conference paper on self-explaining rationalization is accepted. 
+- [May. 2024] &nbsp; One conference paper on selective rationalization is accepted. 
 - [Apr. 2023] &nbsp; One journal paper on Linguistic knowledge is accepted.
 - [Oct. 2022] &nbsp; 🏆 We won the First Prize (1st place) - CMRC2022@CCL2022, Chinese Information Processing Society (CIPS), China!
 - [May. 2022] &nbsp; One journal paper on machine reading comprehension and one journal paper on text semantic matching are accepted.
