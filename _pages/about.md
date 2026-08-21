@@ -148,7 +148,7 @@ Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**. (* = corres
 
 <div class='paper-box-text' markdown="1">
 
-(JMIR2024) [A comprehensive Overview of CFN From a Commonsense Perspective](https://yunxiaomr.github.io/)
+(JMIR2024) [A Comprehensive Overview of CFN from a Commonsense Perspective](https://yunxiaomr.github.io/)
 
 **Ru Li**, **Yunxiao Zhao**, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Han, Hongyan Zhao.
 <!-- 
