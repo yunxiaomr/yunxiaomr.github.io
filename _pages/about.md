@@ -111,7 +111,7 @@ Xin Kang, **Yunxiao Zhao**\*, Jiayang Zhang, Juncai Li, Zhichao Yan, XiaoQi Han,
 
 (EMNLP2026 Main) [Responsibility-Aware Scheduling for Selective Rationalization](https://yunxiaomr.github.io/)
 
-Dengchao Zhang, **Yunxiao Zhao**\*, Zhichao Yan, Yue Fan, Shaoru Guo, **Ru Li**. (* = corresponding author)
+Dengchao Zhang, **Yunxiao Zhao**\*, Zhichao Yan, Yue Fan, Shaoru Guo, **Ru Li**\*. (* = corresponding author)
 
 - We propose ReSR (Responsibility-Aware Scheduling for Rationalization), a training-control framework that keeps the standard select-then-predict path while adaptively scheduling generator and predictor updates. ReSR uses online, probe, and reference diagnostics with rationale-structure signals to attribute failures to generator-side rationale quality or predictor lag; a virtual-runtime scheduler then converts this attribution into generator/predictor debts and allocates the next optimization slice.
 </div>
@@ -121,7 +121,7 @@ Dengchao Zhang, **Yunxiao Zhao**\*, Zhichao Yan, Yue Fan, Shaoru Guo, **Ru Li**.
 
 (EMNLP2026 Findings) [MulEG: Multi-Level Explanation-Guided Feature Attribute Graph for Zero-Shot Tabular Classification](https://yunxiaomr.github.io/)
 
-Jiayang Zhang, **Yunxiao Zhao**\*, Xin Kang, Zhichao Yan, Boxiang Ma, Qinghua Chai, Xingtong Yu, **Ru Li**. (* = corresponding author)
+Jiayang Zhang, **Yunxiao Zhao**\*, Xin Kang, Zhichao Yan, Boxiang Ma, Qinghua Chai, Xingtong Yu, **Ru Li**\*. (* = corresponding author)
 
 - We propose a novel method (MulEG), which harnesses multi-level textual explanations with a feature attribute graph to model both tabular topology and cell-element relations.
 
@@ -160,7 +160,7 @@ Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**. (* = corres
 
 (ACL2026 Main) [Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration](https://yunxiaomr.github.io/)
 
-Yue Fan, Hu zhang, **Yunxiao Zhao**, Guangjun Zhang, Hao ZHAN, Ru Li, Hongye Tan, Wang Yuanlong
+Yue Fan, Hu zhang, **Yunxiao Zhao**, Guangjun Zhang, Hao ZHAN, **Ru Li**, Hongye Tan, Wang Yuanlong
 
 - We propose Leibniz, a theory-of-mind driven neuro-symbolic reasoning framework. We construct a bidirectional reasoning model based on multi-agent collaboration, which characterizes the reasoning process from two complementary perspectives.
 
@@ -172,7 +172,7 @@ Yue Fan, Hu zhang, **Yunxiao Zhao**, Guangjun Zhang, Hao ZHAN, Ru Li, Hongye Tan
 
 (ACL2026 Main) [Suggest-Verify-Revise: A Three-Stage Document-Level Event Causality Identification with Narrative Consistency](https://yunxiaomr.github.io/)
 
-Ya Su, Hu Zhang, Dan Qiao, YuJie Wang, **Yunxiao Zhao**, Yue Fan, Shike Li, Ru Li, Hongye Tan
+Ya Su, Hu Zhang, Dan Qiao, YuJie Wang, **Yunxiao Zhao**, Yue Fan, Shike Li, **Ru Li**, Hongye Tan
 
 - Document-level Event Causality Identification aims to identify causal relations among multiple events within unstructured text. To model the overall narrative backbone in the propagation of causal dependencies and the role differentiation of events within multi-cause/multi-effect structures, we propose a suggest-verify-revise approach for document-level event causality identification with narrative consistency.
 
@@ -184,7 +184,7 @@ Ya Su, Hu Zhang, Dan Qiao, YuJie Wang, **Yunxiao Zhao**, Yue Fan, Shike Li, Ru L
 
 (ACL2021 Findings) [GCRC: A New Challenging MRC Dataset from Gaokao Chinese for Explainable Evaluation](https://yunxiaomr.github.io/)
 
-Hongye Tan, Xiaoyue Wang, Yu Ji, Ru Li, Xiaoli Li, Zhiwei Hu, **Yunxiao Zhao**, Xiaoqi Han.
+Hongye Tan, Xiaoyue Wang, Yu Ji, **Ru Li**, Xiaoli Li, Zhiwei Hu, **Yunxiao Zhao**, Xiaoqi Han.
 <!-- 
 <a href="https://link.springer.com/article/10.1007/s11633-023-1450-8">**Paper**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <a href="https://www.mi-research.net/article/doi/10.1007/s11633-023-1450-8">**Poster**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
