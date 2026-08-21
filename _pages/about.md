@@ -67,7 +67,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 - In this paper, we systematically revisit cooperative rationalization from a novel game-theoretic perspective and identify the fundamental cause of rationale collapse. We then propose a novel approach, Game-theoretic Policy Optimization oriented RATionalization (PoRAT), which progressively introduces policy interventions to address the game equilibrium in the cooperative game process, thereby guiding the model toward a more optimal solution state.
 </div>
-</div>
+
 
 
 <div class='paper-box-text' markdown="1">
@@ -81,7 +81,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 -->
 - We propose a novel approach AGR (Agent-Guided Rationalization), guiding the next action of the model based on its current training state. We introduce causal intervention calculus to quantify the causal effects inherent during rationale training, and utilize the reinforcement learning process to refine their learning bias.
 </div>
-</div>
+
 
 
 
@@ -95,7 +95,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 - Pre-trained Language Models (PLMs) are trained on large amounts of unlabeled data, and they exhibit remarkable reasoning skills. However, the trustworthiness challenges have become increasingly evident. To alleviate this problem, we propose a novel knowledge-guided probing approach called KnowProb in a post-hoc explanation way, which aims to probe whether black-box PLMs understand implicit knowledge beyond the given text, rather than focusing only on the surface-level content of the text. 
 
 </div>
-</div>
+
 
 
 
@@ -108,7 +108,7 @@ Yue Fan, Hu zhang, **Yunxiao Zhao**, Guangjun Zhang, Hao ZHAN, Ru Li, Hongye Tan
 - We propose Leibniz, a theory-of-mind driven neuro-symbolic reasoning framework. We construct a bidirectional reasoning model based on multi-agent collaboration, which characterizes the reasoning process from two complementary perspectives.
 
 </div>
-</div>
+
 
 
 <div class='paper-box-text' markdown="1">
@@ -120,7 +120,7 @@ Ya Su, Hu Zhang, Dan Qiao, YuJie Wang, **Yunxiao Zhao**, Yue Fan, Shike Li, Ru L
 - Document-level Event Causality Identification aims to identify causal relations among multiple events within unstructured text. To model the overall narrative backbone in the propagation of causal dependencies and the role differentiation of events within multi-cause/multi-effect structures, we propose a suggest-verify-revise approach for document-level event causality identification with narrative consistency.
 
 </div>
-</div>
+
 
 
 <div class='paper-box-text' markdown="1">
@@ -131,7 +131,7 @@ Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**. (* = corres
 
 - Explainable multi-hop question answering aims to utilize multi-source intensive documents retrieved to derive the answer. However, it is challenging to model the importance of knowledge retrieved. In this paper, we propose LOG, a novel optimized retrieval method to discover more beneficial knowledge from a local-to-global perspective, facilitating multi-hop reasoning, notably for long-chain reasoning.  
 </div>
-</div>
+
 
 
 <div class='paper-box-text' markdown="1">
@@ -145,7 +145,7 @@ Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**. (* = corres
 -->
 - We conduct a comprehensive overview of Chinese FrameNet from a commonsense perspective, covering topics such as scenario commonsense representation, Chinese FrameNet resources, and its applications. We also summarize recent breakthroughs and identify future research directions. 
 </div>
-</div>
+
 
 
 <div class='paper-box-text' markdown="1">
@@ -159,7 +159,7 @@ Hongye Tan, Xiaoyue Wang, Yu Ji, Ru Li, Xiaoli Li, Zhiwei Hu, **Yunxiao Zhao**, 
 -->
 - In this paper, we propose GCRC, a new explainable evaluation dataset with challenging and high-quality multi-choice questions, collected from Gaokao Chinese (Chinese subject from the National College Entrance Examination of China).  
 </div>
-</div>
+
 
 
 
