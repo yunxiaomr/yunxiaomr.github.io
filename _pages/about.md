@@ -63,8 +63,7 @@ This site has received <span id="busuanzi_value_site_pv"></span> views.
 <!--<span class="noter" style="color:#7d7d7d"> (* = corresponding author)</span> -->
 <!--<span class="noter" style="color:#7d7d7d"> (* = equal contribution | † = I mentored)</span> -->
 
-
-<span class="noter" style="color:#7d7d7d"> IEEE TKDE (+1), JMIR (+1), ACL (+4), EMNLP (+3), COLING (+1), DASFAA (+1) </span>
+<span class="noter" style="color:#7d7d7d">IEEE TKDE (+1), JMIR (+1), ACL (+4), EMNLP (+3), COLING (+1), DASFAA (+1) </span>
 
 <div class='paper-box-text' markdown="1">
 
