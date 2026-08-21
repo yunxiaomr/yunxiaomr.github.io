@@ -48,7 +48,6 @@ This site has received <span id="busuanzi_value_site_pv"></span> views.
 - [Apr. 2026] &nbsp; One paper on LLM logical reasoning and one paper on information extraction are accepted by ACL2026 Main.
 - [Nov. 2025] &nbsp; One journal paper on selective rationalization is accepted by IEEE TKDE. 
 - [Nov. 2025] &nbsp; Welcome to our in-person meet-up at EMNLP 2025 in Suzhou, China!
-- [May. 2025] &nbsp; We attend DASFAA 2025 (International Conference on Database Systems for Advanced Applications) in Carlton Hotel Singapore.
 - [Apr. 2025] &nbsp; We attend ICLR 2025 (International Conference on Learning Representations) in Singapore EXPO. 
 - [Jan. 2025] &nbsp; One conference paper on knowledge probing is accepted.
 - [Nov. 2024] &nbsp; One conference paper on multi-hop reasoning is accepted.
