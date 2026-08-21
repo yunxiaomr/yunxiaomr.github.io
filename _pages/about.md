@@ -26,9 +26,10 @@ PhD at [Shanxi University](https://www.sxu.edu.cn/), supervised by [Prof. Ru Li]
 Closely collaborating with [Prof. Zhiqiang Wang](https://scholar.google.com/citations?user=kirB018AAAAJ) and [Prof. Jiye Liang](https://scholar.google.com.hk/citations?user=ElmbPa4AAAAJ) (IEEE Fellow) at SXU, as well as [Prof. Wenxuan Zhang](https://isakzhang.github.io/) at SUTD, [Prof. Yuan Fang](https://www.yfang.site/group) at SMU, [Prof. Delvin Ce Zhang](https://www.delvincezhang.com/) at the University of Sheffield, and [Dr. Xingtong Yu](https://xingtongyu.netlify.app/) at CUHK.
 
 
-Feel free to contact me by <a href="mailto:yunxiaomr@163.com">email</a> if you are interested in discussing or collaborating with me.
+Feel free to contact me by <a href="mailto:yunxiaomr@163.com">email</a> if you are interested in discussing or collaborating with me. 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> 
-It has been attented <span id="busuanzi_value_site_pv"></span> times.
+This site has received <span id="busuanzi_value_site_pv"></span> views.
+
 
 <!--I have published several papers in some international journals and conferences, including IEEETKDE, Journal of Machine Intelligence Research, ACL, EMNLP, COLING, DASFAA, and so on. I am also actively serving as a reviewer for some international conferences such as ACL, EMNLP, COLING, SIGKDD, AAAI, IJCNN, and so on. -->
 <!--My research interests focus on explainable natural language processing, including explainable probing, rationalization, and reasoning. -->
