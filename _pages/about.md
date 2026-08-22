@@ -115,7 +115,7 @@ Zhichao Yan, **Yunxiao Zhao**, Jiapu Wang, Jiaoyan Chen, Xiaoli Li, Ru Li, Jeff 
 (DASFAA2025 Main) [Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective](https://link.springer.com/chapter/10.1007/978-981-95-4158-4_14) 
 [**Paper**](https://link.springer.com/chapter/10.1007/978-981-95-4158-4_14) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Code**](https://github.com/yunxiaomr/KnowProb) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Leaderboard**](https://tianchi.aliyun.com/cfsp) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Tool**](https://tianchi.aliyun.com/cfsp) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
 
