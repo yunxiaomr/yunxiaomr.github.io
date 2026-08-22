@@ -61,13 +61,14 @@ This site has received <span id="busuanzi_value_site_pv"></span> views.
 
 # 📄 Preprints
 
+
+<span class="noter" style="color:#d9534f">2026 · New</span> [Beyond Factual Accuracy: Evaluating Global Reasoning Integrity in RAG Systems with LogicScore](https://arxiv.org/)  
+Zhichao Yan, Yunxiao Zhao, Jiapu Wang, Jiaoyan Chen, Xiaoli Li, Ru Li, Jeff Z Pan.
+
 <div class='paper-box-text' markdown="1">
 
-(2026) [Paper Title](https://arxiv.org/)  
-Author 1, **Your Name**, Author 3.
-
-...
-
+(2026) [Beyond Factual Accuracy: Evaluating Global Reasoning Integrity in RAG Systems with LogicScore](https://arxiv.org/)  
+Zhichao Yan, Yunxiao Zhao, Jiapu Wang, Jiaoyan Chen, Xiaoli Li, Ru Li, Jeff Z Pan.
 </div>
 
 # 📝 Selected Publications 
