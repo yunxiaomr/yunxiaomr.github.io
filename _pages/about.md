@@ -308,3 +308,5 @@ StatCounter" href="https://statcounter.com/" target="_blank"><img
 class="statcounter" src="https://c.statcounter.com/12037091/0/f3e3a82d/0/"
 alt="Web Analytics Made Easy - StatCounter"></a></div></noscript>
  End of Statcounter Code -->
+
+ <script defer src="https://cloud.umami.is/script.js" data-website-id="b261c724-8eba-4cef-856a-92fa76221a5e"></script>
