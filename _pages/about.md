@@ -66,7 +66,10 @@ This site has received <span id="busuanzi_value_site_pv"></span> views.
 
 <div class='paper-box-text' markdown="1">
 
-(IEEE TKDE2025) [Learnable Game-theoretic Policy Optimization for Data-centric Self-explanation Rationalization](https://yunxiaomr.github.io/)
+(IEEE TKDE2025) [Learnable Game-theoretic Policy Optimization for Data-centric Self-explanation Rationalization](https://ieeexplore.ieee.org/document/11271751)
+[**Paper**](https://ieeexplore.ieee.org/document/11271751) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/yunxiaomr/Rationalization-PORAT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 
 **Yunxiao Zhao**, Zhiqiang Wang, Xingtong Yu, Xiaoli Li, Jiye Liang, **Ru Li**.
 
@@ -93,7 +96,7 @@ This site has received <span id="busuanzi_value_site_pv"></span> views.
 
 <div class='paper-box-text' markdown="1">
 
-(DASFAA2025 Main) [Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective](https://yunxiaomr.github.io/)
+(DASFAA2025 Main) [Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective](https://yunxiaomr.github.io/) 
 
 **Yunxiao Zhao**, Hao Xu, Zhiqiang Wang, Xiaoli Li, Jiye Liang, **Ru Li**.
 
