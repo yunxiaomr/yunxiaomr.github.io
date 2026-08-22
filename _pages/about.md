@@ -66,7 +66,7 @@ This site has received <span id="busuanzi_value_site_pv"></span> views.
     color: #d9534f;
     font-weight: 600;
     margin-left: 4px;
-">(2026)</span> [Beyond Factual Accuracy: Evaluating Global Reasoning Integrity in RAG Systems with LogicScore](https://arxiv.org/abs/2601.15050) 
+"></span> [Beyond Factual Accuracy: Evaluating Global Reasoning Integrity in RAG Systems with LogicScore](https://arxiv.org/abs/2601.15050) 
 [**Paper**](https://arxiv.org/abs/2601.15050) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Code**](https://github.com/zhichaoyan11/LogicScore) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
