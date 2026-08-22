@@ -115,6 +115,9 @@ Zhichao Yan, **Yunxiao Zhao**, Jiapu Wang, Jiaoyan Chen, Xiaoli Li, Ru Li, Jeff 
 (DASFAA2025 Main) [Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective](https://link.springer.com/chapter/10.1007/978-981-95-4158-4_14) 
 [**Paper**](https://link.springer.com/chapter/10.1007/978-981-95-4158-4_14) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Code**](https://github.com/yunxiaomr/KnowProb) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Leaderboard**](https://tianchi.aliyun.com/cfsp) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+
 
 **Yunxiao Zhao**, Hao Xu, Zhiqiang Wang, Xiaoli Li, Jiye Liang, **Ru Li**.
 
@@ -225,6 +228,7 @@ Ya Su, Hu Zhang, Dan Qiao, Yujie Wang, **Yunxiao Zhao**, Yue Fan, Shike Li, **Ru
 (ACL2021 Findings) [GCRC: A New Challenging MRC Dataset from Gaokao Chinese for Explainable Evaluation](https://aclanthology.org/2021.findings-acl.113.pdf)
 [**Paper**](https://aclanthology.org/2021.findings-acl.113.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Code**](https://github.com/yunxiaomr/GCRC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Leaderboard**](https://cips-cl.org/static/CCL2022/cclEval/taskEvaluation/index.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 Hongye Tan, Xiaoyue Wang, Yu Ji, **Ru Li**, Xiaoli Li, Zhiwei Hu, **Yunxiao Zhao**, Xiaoqi Han.
 <!-- 
