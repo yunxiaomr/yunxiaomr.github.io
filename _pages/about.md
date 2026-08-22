@@ -58,6 +58,18 @@ This site has received <span id="busuanzi_value_site_pv"></span> views.
 - [May. 2022] &nbsp; One journal paper on machine reading comprehension and one journal paper on text semantic matching are accepted.
 - [May. 2021] &nbsp; One conference paper on explainable evaluation is accepted by Findings of ACL 2021. 
 
+
+# 📄 Preprints
+
+<div class='paper-box-text' markdown="1">
+
+(2026) [Paper Title](https://arxiv.org/)  
+Author 1, **Your Name**, Author 3.
+
+...
+
+</div>
+
 # 📝 Selected Publications 
 <!--<span class="noter" style="color:#7d7d7d"> (* = corresponding author)</span> -->
 <!--<span class="noter" style="color:#7d7d7d"> (* = equal contribution | † = I mentored)</span> -->
@@ -67,7 +79,6 @@ This site has received <span id="busuanzi_value_site_pv"></span> views.
 <div class='paper-box-text' markdown="1">
 
 (IEEE TKDE2025) [Learnable Game-theoretic Policy Optimization for Data-centric Self-explanation Rationalization](https://ieeexplore.ieee.org/document/11271751)
-
 [**Paper**](https://ieeexplore.ieee.org/document/11271751) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Code**](https://github.com/yunxiaomr/Rationalization-PORAT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -81,7 +92,6 @@ This site has received <span id="busuanzi_value_site_pv"></span> views.
 <div class='paper-box-text' markdown="1">
   
 (ACL2024 Main) [AGR: Reinforced Causal Agent Guided Self-explaining Rationalization](https://aclanthology.org/2024.acl-short.47/)
-
 [**Paper**](https://aclanthology.org/2024.acl-short.47/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Code**](https://github.com/yunxiaomr/Rationalization-AGR) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -98,9 +108,8 @@ This site has received <span id="busuanzi_value_site_pv"></span> views.
 
 
 <div class='paper-box-text' markdown="1">
-
+  
 (DASFAA2025 Main) [Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective](https://link.springer.com/chapter/10.1007/978-981-95-4158-4_14) 
-
 [**Paper**](https://link.springer.com/chapter/10.1007/978-981-95-4158-4_14) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Code**](https://github.com/yunxiaomr/KnowProb) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -114,7 +123,6 @@ This site has received <span id="busuanzi_value_site_pv"></span> views.
 <div class='paper-box-text' markdown="1">
 
 (EMNLP2026 Main) [CuRLRank: Curriculum-Guided Reinforcement Learning for Reasoning-Intensive Reranking](https://yunxiaomr.github.io/) 
-
 [**Paper**](https://yunxiaomr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Code**](https://yunxiaomr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -127,7 +135,6 @@ Xin Kang, **Yunxiao Zhao**\*, Jiayang Zhang, Juncai Li, Zhichao Yan, XiaoQi Han,
 <div class='paper-box-text' markdown="1">
 
 (EMNLP2026 Main) [Responsibility-Aware Scheduling for Selective Rationalization](https://yunxiaomr.github.io/)
-
 [**Paper**](https://yunxiaomr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Code**](https://yunxiaomr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -140,7 +147,6 @@ Dengchao Zhang, **Yunxiao Zhao**\*, Zhichao Yan, Yue Fan, Shaoru Guo, **Ru Li**\
 <div class='paper-box-text' markdown="1">
 
 (EMNLP2026 Findings) [MulEG: Multi-Level Explanation-Guided Feature Attribute Graph for Zero-Shot Tabular Classification](https://yunxiaomr.github.io/)
-
 [**Paper**](https://yunxiaomr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Code**](https://yunxiaomr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -156,7 +162,6 @@ Jiayang Zhang, **Yunxiao Zhao**\*, Xin Kang, Zhichao Yan, Boxiang Ma, Qinghua Ch
 <div class='paper-box-text' markdown="1">
 
 (COLING2025 Main) [LOG: A Local-to-Global Optimization Approach for Retrieval-based Explainable Multi-Hop Question Answering](https://aclanthology.org/2025.coling-main.610/)
-
 [**Paper**](https://aclanthology.org/2025.coling-main.610/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Code**](https://github.com/yunxiaomr/LOG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -170,7 +175,6 @@ Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**. (* = corres
 <div class='paper-box-text' markdown="1">
 
 (JMIR2024) [A Comprehensive Overview of CFN from a Commonsense Perspective](https://link.springer.com/article/10.1007/s11633-023-1450-8)
-
 [**Paper**](https://link.springer.com/article/10.1007/s11633-023-1450-8) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Code**](https://github.com/yunxiaomr/KnowProb) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -188,7 +192,6 @@ Hao Xu, **Yunxiao Zhao**\*, Jiayang Zhang, Zhiqiang Wang, **Ru Li**. (* = corres
 <div class='paper-box-text' markdown="1">
 
 (ACL2026 Main) [Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration](https://aclanthology.org/2026.acl-long.924/)
-
 [**Paper**](https://aclanthology.org/2026.acl-long.924/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Code**](https://yunxiaomr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -203,7 +206,6 @@ Yue Fan, Hu zhang, **Yunxiao Zhao**, Guangjun Zhang, Hao ZHAN, **Ru Li**, Hongye
 <div class='paper-box-text' markdown="1">
 
 (ACL2026 Main) [Suggest-Verify-Revise: A Three-Stage Document-Level Event Causality Identification with Narrative Consistency](https://aclanthology.org/2026.acl-long.871/)
-
 [**Paper**](https://aclanthology.org/2026.acl-long.871/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Code**](https://yunxiaomr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -218,7 +220,6 @@ Ya Su, Hu Zhang, Dan Qiao, Yujie Wang, **Yunxiao Zhao**, Yue Fan, Shike Li, **Ru
 <div class='paper-box-text' markdown="1">
 
 (ACL2021 Findings) [GCRC: A New Challenging MRC Dataset from Gaokao Chinese for Explainable Evaluation](https://aclanthology.org/2021.findings-acl.113.pdf)
-
 [**Paper**](https://aclanthology.org/2021.findings-acl.113.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Code**](https://github.com/yunxiaomr/GCRC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
