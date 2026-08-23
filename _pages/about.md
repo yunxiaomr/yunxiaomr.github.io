@@ -45,18 +45,18 @@ This site has received <span id="busuanzi_value_site_pv"></span> views.
 
 # 🔥 News 
 - [Aug. 2026] &nbsp; Two papers were accepted to EMNLP2026 Main Conference, and one paper was accepted to the EMNLP2026 Findings.
-- [Apr. 2026] &nbsp; One paper on LLM logical reasoning and one paper on information extraction are accepted by ACL2026 Main.
-- [Nov. 2025] &nbsp; One journal paper on selective rationalization is accepted by IEEE TKDE. 
+- [Apr. 2026] &nbsp; One paper on LLM logical reasoning and one paper on information extraction were accepted by ACL2026 Main.
+- [Nov. 2025] &nbsp; One journal paper on selective rationalization was accepted by IEEE TKDE. 
 - [Nov. 2025] &nbsp; Welcome to our in-person meet-up at EMNLP 2025 in Suzhou, China!
-- [Apr. 2025] &nbsp; We attend ICLR 2025 (International Conference on Learning Representations) in Singapore EXPO. 
-- [Jan. 2025] &nbsp; One conference paper on knowledge probing is accepted.
-- [Nov. 2024] &nbsp; One conference paper on multi-hop reasoning is accepted.
-- [Aug. 2024] &nbsp; We attend ACL 2024 (Annual Meeting of the Association for Computational Linguistics) in Bangkok, Thailand.
-- [May. 2024] &nbsp; One conference paper on selective rationalization is accepted. 
-- [Apr. 2023] &nbsp; One journal paper on Linguistic knowledge is accepted.
+- [Apr. 2025] &nbsp; We attended ICLR 2025 (International Conference on Learning Representations) in Singapore EXPO. 
+- [Jan. 2025] &nbsp; One conference paper on knowledge probing was accepted.
+- [Nov. 2024] &nbsp; One conference paper on multi-hop reasoning was accepted.
+- [Aug. 2024] &nbsp; We attended ACL 2024 (Annual Meeting of the Association for Computational Linguistics) in Bangkok, Thailand.
+- [May. 2024] &nbsp; One conference paper on selective rationalization was accepted. 
+- [Apr. 2023] &nbsp; One journal paper on Linguistic knowledge was accepted.
 - [Oct. 2022] &nbsp; 🏆 We won the First Prize (1st place) - CMRC2022@CCL2022, Chinese Information Processing Society (CIPS), China!
-- [May. 2022] &nbsp; One journal paper on machine reading comprehension and one journal paper on text semantic matching are accepted.
-- [May. 2021] &nbsp; One conference paper on explainable evaluation is accepted by Findings of ACL 2021. 
+- [May. 2022] &nbsp; One journal paper on machine reading comprehension and one journal paper on text semantic matching were accepted.
+- [May. 2021] &nbsp; One conference paper on explainable evaluation was accepted by Findings of ACL 2021. 
 
 
 # 📄 Preprints
