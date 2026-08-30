@@ -70,7 +70,7 @@ This site has received <span id="busuanzi_value_site_pv"></span> views.
 [**Paper**](https://arxiv.org/abs/2601.15050) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Code**](https://github.com/zhichaoyan11/LogicScore) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-Zhichao Yan, **Yunxiao Zhao**, Jiapu Wang, Jiaoyan Chen, Xiaoli Li, Ru Li, Jeff Z Pan.
+Zhichao Yan, Yunxiao Zhao, Jiapu Wang, Jiaoyan Chen, Xiaoli Li, Ru Li, Jeff Z Pan.
 
 
 # 📝 Selected Publications 
