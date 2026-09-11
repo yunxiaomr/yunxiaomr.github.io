@@ -60,7 +60,7 @@ This site has received <span id="busuanzi_value_site_pv"></span> views.
 
 
 
-<!--
+
 # 📄 Preprints
 
 
@@ -73,7 +73,7 @@ This site has received <span id="busuanzi_value_site_pv"></span> views.
 [**Code**](https://github.com/zhichaoyan11/LogicScore) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 Zhichao Yan, Yunxiao Zhao, Jiapu Wang, Jiaoyan Chen, Xiaoli Li, Ru Li, Jeff Z Pan.
--->
+
 
 # 📝 Selected Publications 
 <!--<span class="noter" style="color:#7d7d7d"> (* = corresponding author)</span> -->
