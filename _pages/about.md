@@ -258,7 +258,6 @@ Hongye Tan, Xiaoyue Wang, Yu Ji, **Ru Li**, Xiaoli Li, Zhiwei Hu, **Yunxiao Zhao
 
 # 📝 Services 
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) Reviewer.
-- IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP) Reviewer. 
 - IEEE Transactions on Multimedia (TMM) Reviewer. 
 - Annual Meeting of the Association for Computational Linguistics (ACL) Reviewer.
 - The Conference on Empirical Methods in Natural Language Processing (EMNLP) Reviewer.
