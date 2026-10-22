@@ -131,9 +131,7 @@ Zhichao Yan, Yunxiao Zhao, Jiapu Wang, Jiaoyan Chen, Xiaoli Li, Ru Li, Jeff Z Pa
 
 <div class='paper-box-text' markdown="1">
 
-(EMNLP2026 Main) [CuRLRank: Curriculum-Guided Reinforcement Learning for Reasoning-Intensive Reranking](https://yunxiaomr.github.io/) 
-[**Paper**](https://yunxiaomr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Code**](https://yunxiaomr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+(EMNLP2026 Main, Accepted) [CuRLRank: Curriculum-Guided Reinforcement Learning for Reasoning-Intensive Reranking](https://yunxiaomr.github.io/) 
 
 Xin Kang, **Yunxiao Zhao**\*, Jiayang Zhang, Juncai Li, Zhichao Yan, XiaoQi Han, **Ru Li**, Delvin Ce Zhang. (* = corresponding author)
 
@@ -143,9 +141,7 @@ Xin Kang, **Yunxiao Zhao**\*, Jiayang Zhang, Juncai Li, Zhichao Yan, XiaoQi Han,
 
 <div class='paper-box-text' markdown="1">
 
-(EMNLP2026 Main) [Responsibility-Aware Scheduling for Selective Rationalization](https://yunxiaomr.github.io/)
-[**Paper**](https://yunxiaomr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Code**](https://yunxiaomr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+(EMNLP2026 Main, Accepted) [Responsibility-Aware Scheduling for Selective Rationalization](https://yunxiaomr.github.io/)
 
 Dengchao Zhang, **Yunxiao Zhao**\*, Zhichao Yan, Yue Fan, Shaoru Guo, **Ru Li**\*. (* = corresponding author)
 
@@ -155,9 +151,8 @@ Dengchao Zhang, **Yunxiao Zhao**\*, Zhichao Yan, Yue Fan, Shaoru Guo, **Ru Li**\
 
 <div class='paper-box-text' markdown="1">
 
-(EMNLP2026 Findings) [MulEG: Multi-Level Explanation-Guided Feature Attribute Graph for Zero-Shot Tabular Classification](https://yunxiaomr.github.io/)
-[**Paper**](https://yunxiaomr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Code**](https://yunxiaomr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+(EMNLP2026 Findings, Accepted) [MulEG: Multi-Level Explanation-Guided Feature Attribute Graph for Zero-Shot Tabular Classification](https://yunxiaomr.github.io/)
+
 
 Jiayang Zhang, **Yunxiao Zhao**\*, Xin Kang, Zhichao Yan, Boxiang Ma, Qinghua Chai, Xingtong Yu, **Ru Li**\*. (* = corresponding author)
 
