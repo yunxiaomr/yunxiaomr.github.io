@@ -45,6 +45,7 @@ This site has received <span id="busuanzi_value_site_pv"></span> views.
 
 
 # 🔥 News 
+- [Oct. 2026] &nbsp; 🚀 CuRLRank is now available on [🤗 Hugging Face](https://huggingface.co/chichitutu/CuRLRank-4B) and [🧩 ModelScope](https://modelscope.cn/models/chichitutu/CuRLRank-4B).
 - [Aug. 2026] &nbsp; Two papers were accepted to EMNLP2026 Main Conference, and one paper was accepted to the EMNLP2026 Findings.
 - [Apr. 2026] &nbsp; One paper on LLM logical reasoning and one paper on information extraction were accepted by ACL2026 Main.
 - [Nov. 2025] &nbsp; One journal paper on selective rationalization was accepted by IEEE TKDE. 
