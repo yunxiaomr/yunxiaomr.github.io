@@ -45,6 +45,7 @@ This site has received <span id="busuanzi_value_site_pv"></span> views.
 
 # 🔥 News 
 - [Oct. 2026] &nbsp; 🚀 CuRLRank on LLMs is now available on [🤗 Hugging Face](https://huggingface.co/chichitutu/CuRLRank-4B) and [<img src="https://modelscope.cn/favicon.ico" width="16" height="16" alt="ModelScope"> ModelScope](https://modelscope.cn/models/chichitutu/CuRLRank-4B).
+- [Oct. 2026] &nbsp; We attended EMNLP 2026 in Budapest, Hungary. 
 - [Aug. 2026] &nbsp; Two papers were accepted to EMNLP2026 Main Conference, and one paper was accepted to the EMNLP2026 Findings.
 - [Apr. 2026] &nbsp; One paper on LLM logical reasoning and one paper on information extraction were accepted by ACL2026 Main.
 - [Nov. 2025] &nbsp; One journal paper on selective rationalization was accepted by IEEE TKDE. 
@@ -288,6 +289,7 @@ Hongye Tan, Xiaoyue Wang, Yu Ji, **Ru Li**, Xiaoli Li, Zhiwei Hu, **Yunxiao Zhao
 
 
 # 💬 Presentation
+- [Oct. 2026], we share our paper on [EMNLP2026](https://2026.aclweb.org/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/) 
 - [Jul. 2026], we share our paper on [ACL2026](https://2026.aclweb.org/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
 - [May. 2025], we share our work by an oral presentation on [DASFAA2025](https://dasfaa2025.github.io/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
 - [Jan. 2025], we share our paper on [COLING2025](https://coling2025.org/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
