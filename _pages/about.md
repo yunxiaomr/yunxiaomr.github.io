@@ -76,6 +76,17 @@ This site has received <span id="busuanzi_value_site_pv"></span> views.
 
 Zhichao Yan, Yunxiao Zhao, Jiapu Wang, Jiaoyan Chen, Xiaoli Li, Ru Li, Jeff Z Pan.
 
+<span class="noter" style="
+    color: #d9534f;
+    font-weight: 600;
+    margin-left: 4px;
+"></span> [Event-Aware Prompt Learning for Dynamic Graphs](https://arxiv.org/abs/2510.11339) 
+[**Paper**](https://arxiv.org/abs/2510.11339) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://anonymous.4open.science/r/EVP-F57E) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+Xingtong Yu, Ruijuan Liang, Renhe Jiang, Dongyuan Li, Yunxiao Zhao, Xinming Zhang, Yuan Fang. 
+
+
 
 # 📝 Selected Publications 
 <!--<span class="noter" style="color:#7d7d7d"> (* = corresponding author)</span> -->
