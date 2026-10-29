@@ -289,7 +289,7 @@ Hongye Tan, Xiaoyue Wang, Yu Ji, **Ru Li**, Xiaoli Li, Zhiwei Hu, **Yunxiao Zhao
 
 
 # 💬 Presentation
-- [Oct. 2026], we share our paper on [EMNLP2026](https://2026.aclweb.org/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/) 
+- [Oct. 2026], we share our paper on [EMNLP2026](https://2026.emnlp.org/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/) 
 - [Jul. 2026], we share our paper on [ACL2026](https://2026.aclweb.org/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
 - [May. 2025], we share our work by an oral presentation on [DASFAA2025](https://dasfaa2025.github.io/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
 - [Jan. 2025], we share our paper on [COLING2025](https://coling2025.org/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
