@@ -265,15 +265,15 @@ Hongye Tan, Xiaoyue Wang, Yu Ji, **Ru Li**, Xiaoli Li, Zhiwei Hu, **Yunxiao Zhao
 - [Jun. 2021] The Outstanding Graduate Student (Master Student).
 
 # 📝 Services 
-- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) Reviewer.
-- IEEE Transactions on Multimedia (TMM) Reviewer.
-- IEEE/ACM Transactions on Audio Speech and Language Processing (TASLP) Reviewer. 
-- Annual Meeting of the Association for Computational Linguistics (ACL) Reviewer.
-- The Conference on Empirical Methods in Natural Language Processing (EMNLP) Reviewer.
-- International Conference on Computational Linguistics (COLING) Reviewer.
-- ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD) Reviewer.
-- The Association for the Advancement of Artificial Intelligence (AAAI) Reviewer. 
-- International Joint Conference on Neural Networks (IJCNN) Reviewer.
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) Reviewer (2026-present).
+- IEEE Transactions on Multimedia (TMM) Reviewer (2026-present).
+- IEEE/ACM Transactions on Audio Speech and Language Processing (TASLP) Reviewer (2026-present). 
+- Annual Meeting of the Association for Computational Linguistics (ACL) Reviewer (2025-present).
+- The Conference on Empirical Methods in Natural Language Processing (EMNLP) Reviewer (2025-present).
+- International Conference on Computational Linguistics (COLING) Reviewer (2024-present).
+- ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD) Reviewer (2025-present).
+- ACM TheWebConf Conference (WWW) Reviewer (2026-present).
+- The Association for the Advancement of Artificial Intelligence (AAAI) Reviewer (2026-present). 
 - The International Conference on Database Systems for Advanced Applications (DASFAA) 2025 Volunteer.
 - The China National Conference on Computational Linguistics (CCL) 2024 Volunteer.
 - The International Symposium on Cognitive and Semantic Computing (ISCSC) 2023-2025 Volunteer.
